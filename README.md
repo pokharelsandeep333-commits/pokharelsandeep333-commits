@@ -20,10 +20,6 @@
 ### 👨‍💻 About Me
 I'm a **Computer Science** sophomore at Dakota State University and an **IT Support Technician** for DSU's IT Services. I bridge the gap between operational IT and software engineering. During the day, I troubleshoot complex enterprise endpoint environments. By night, I architect production-grade software, self-host complex Docker deployments on AWS, and build scalable web applications.
 
-- 🔭 **Currently building:** [Molecular Zettelkasten](https://github.com/pokharelsandeep333-commits/Molecular-Zettelkasten), a zero-database semantic RAG platform.
-- ☁️ **Hosting:** My own private cloud, [SandeepCloud](https://github.com/pokharelsandeep333-commits/SandeepCloud).
-- ⚙️ **Automating:** Device Quality Assurance (DQA) tools using PowerShell and WMI for DSU technicians.
-
 ---
 
 ### 🛠️ Tech Stack & Tools
