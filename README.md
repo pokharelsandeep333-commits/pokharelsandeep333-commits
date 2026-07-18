@@ -43,14 +43,14 @@ I'm a **Computer Science** sophomore at Dakota State University and an **IT Supp
 ### 📊 GitHub Activity & Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pokharelsandeep333-commits&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pokharelsandeep333-commits&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pokharelsandeep333-commits&show_icons=true&theme=tokyonight&hide_border=true&v=2" alt="GitHub Stats" width="48%" />
+  <img src="https://streak-stats.demolab.com/?user=pokharelsandeep333-commits&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokharelsandeep333-commits&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokharelsandeep333-commits&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top Languages" width="48%" />
 </div>
 
 ---
