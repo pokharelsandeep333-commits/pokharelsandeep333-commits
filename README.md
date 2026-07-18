@@ -38,22 +38,7 @@ I'm a **Computer Science** sophomore at Dakota State University and an **IT Supp
   </a>
 </div>
 
----
 
-### 📊 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pokharelsandeep333-commits&show_icons=true&theme=tokyonight&hide_border=true&v=2" alt="GitHub Stats" width="48%" />
-  <img src="https://streak-stats.demolab.com/?user=pokharelsandeep333-commits&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokharelsandeep333-commits&layout=compact&theme=tokyonight&hide_border=true&v=2" alt="Top Languages" width="48%" />
-</div>
-
----
 <p align="center">
   <i>Check out my pinned repositories below for my deployed production projects!</i>
 </p>
