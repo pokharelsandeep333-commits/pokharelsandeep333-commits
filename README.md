@@ -22,6 +22,43 @@ I'm a **Computer Science** sophomore at Dakota State University and an **IT Supp
 
 ---
 
+### 🚀 Featured Engineering Projects
+
+<br/>
+
+<div align="center">
+  <table>
+    <tr>
+      <td width="50%" align="center">
+        <b>☁️ SandeepCloud Infrastructure</b><br/><br/>
+        Self-hosted Nextcloud architecture deployed on AWS EC2. Secured via Cloudflare CDN, Strict SSL, and orchestrated with Docker Compose & Nginx.
+        <br/><br/>
+        <a href="https://sandeeppokharel.com.np/">Live Site</a> • <a href="https://github.com/pokharelsandeep333-commits/SandeepCloud">Source Code</a>
+      </td>
+      <td width="50%" align="center">
+        <b>🧠 Molecular Zettelkasten</b><br/><br/>
+        AI knowledge platform with zero-database Semantic RAG via Transformers.js. Built on Next.js 16, integrated with Gemini API & Firebase.
+        <br/><br/>
+        <a href="https://github.com/pokharelsandeep333-commits/Molecular-Zettelkasten">Source Code</a>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%" align="center">
+        <b>⚙️ DQA Automation Suite</b><br/><br/>
+        WPF & PowerShell utility designed for DSU IT. Silently pulls BIOS/WMI data to completely automate the Device Quality Assurance process.
+      </td>
+      <td width="50%" align="center">
+        <b>🤖 Agentic LLM-Wiki Template</b><br/><br/>
+        Intelligent Obsidian Vault template explicitly engineered for complex AI Agent workflows, enforcing strict data schemas.
+        <br/><br/>
+        <a href="https://github.com/pokharelsandeep333-commits/Personal-Wiki-Template">Source Code</a>
+      </td>
+    </tr>
+  </table>
+</div>
+
+---
+
 ### 🛠️ Tech Stack & Tools
 
 <div align="center">
