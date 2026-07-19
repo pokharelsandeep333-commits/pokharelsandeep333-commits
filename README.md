@@ -109,5 +109,5 @@ TCP     <a href="mailto:pokharelsandeep333@gmail.com">Email</a>           <a hre
 
 ### `> cat /var/log/visitors.log`
 <p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pokharelsandeep333-commits&color=00FF00&style=for-the-badge&label=VISITORS" alt="Visitor Badge" />
+  <img src="https://komarev.com/ghpvc/?username=pokharelsandeep333-commits&color=2ea043&style=for-the-badge&label=VISITORS" alt="Visitor Badge" />
 </p>
