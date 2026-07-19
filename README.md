@@ -13,6 +13,29 @@ I'm a **Computer Science** sophomore at Dakota State University and work as an *
 
 ---
 
+### `> neofetch`
+
+<pre>
+<b><font color="#00FF00">       a8888b.</font></b>       <b><font color="#00FF00">pokharelsandeep333</font></b>@<b><font color="#00FF00">localhost</font></b>
+<b><font color="#00FF00">      d888888b.</font></b>      ----------------------------
+<b><font color="#00FF00">      8P"YP"Y88</font></b>      <b>OS</b>: Windows / WSL2 Linux
+<b><font color="#00FF00">      8|o||o|88</font></b>      <b>Host</b>: Dakota State University
+<b><font color="#00FF00">      8'    .88</font></b>      <b>Role</b>: IT Support & CS Major
+<b><font color="#00FF00">      8`._.' Y8.</font></b>     <b>Uptime</b>: Sophomore Year
+<b><font color="#00FF00">     d/      `8b.</font></b>    <b>Packages</b>: React, Docker, AWS
+<b><font color="#00FF00">    dP   .    Y8b.</font></b>   <b>Shell</b>: PowerShell / Bash
+<b><font color="#00FF00">   d8:'   `  `::88b.</font></b> <b>Theme</b>: Hacker / Terminal
+<b><font color="#00FF00">  d8"           `Y88b</font></b>
+<b><font color="#00FF00"> :8P     '       :888</font></b>
+<b><font color="#00FF00">  8a.    :      _a88P</font></b>
+<b><font color="#00FF00">._/"Yaa_ :    .| 88P|</font></b>
+<b><font color="#00FF00">\    YP"      `| 8P  `.</font></b>
+<b><font color="#00FF00">/    \._____.d|    .'</font></b>
+<b><font color="#00FF00">`--..__)888888P`._.'</font></b>
+</pre>
+
+---
+
 ### `> ls -l /skills/`
 
 **`./dev`**  
@@ -41,6 +64,26 @@ TCP     <a href="mailto:pokharelsandeep333@gmail.com">Email</a>           <a hre
 </pre>
 ---
 
+### `> history | grep commits`
+
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
+
+---
+
+### `> ./fortune`
+
+<!-- JOKE_START -->
+```text
+[ 2026-07-18 23:05:26 ] Fetching ./fortune ...
+
+> Why did the programmer bring a broom to work?
+> ... To clean up all the bugs.
+```
+<!-- JOKE_END -->
+
+---
+
 ### `> cat stats.json`
 
 <p align="center">
@@ -60,4 +103,11 @@ TCP     <a href="mailto:pokharelsandeep333@gmail.com">Email</a>           <a hre
 
 <p align="center">
   <i>Check out my pinned repositories below for my deployed production projects.</i>
+</p>
+
+---
+
+### `> cat /var/log/visitors.log`
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=pokharelsandeep333-commits&color=00FF00&style=for-the-badge&label=VISITORS" alt="Visitor Badge" />
 </p>
