@@ -1,42 +1,57 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=250&section=header&text=Sandeep%20Pokharel&fontSize=50&animation=fadeIn&fontAlignY=38&desc=IT%20Support%20Technician%20%7C%20Computer%20Science%20Student&descAlignY=55&descAlign=50" />
-
-  <br/>
-  
-  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Building+production-grade+software...;Deploying+scalable+cloud+infrastructure...;Automating+IT+operations...;)](https://git.io/typing-svg)
-
-  <p align="center">
-    <a href="https://portfolio.sandeeppokharel.com.np/" target="_blank">
-      <img src="https://img.shields.io/badge/Portfolio-Live_Demo-0078D4?style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
-    </a>
-    <a href="https://www.linkedin.com/in/sandeep-pokharel-0955932a3/" target="_blank">
-      <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-  </p>
-</div>
-
----
-
-### 👨‍💻 About Me
-I'm a **Computer Science** sophomore at Dakota State University and an **IT Support Technician** for DSU's IT Services. I bridge the gap between operational IT and software engineering. During the day, I troubleshoot complex enterprise endpoint environments. By night, I architect production-grade software, self-host complex Docker deployments on AWS, and build scalable web applications.
-
----
-
-
-
-### 🛠️ Tech Stack & Tools
-
-<div align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nextjs,react,ts,js,tailwind,nodejs,html,css&perline=8" />
-  </a>
-  <br />
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=docker,aws,linux,powershell,git,github,bash,vscode&perline=8" />
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FF00&background=0D111700&center=true&vCenter=true&width=600&lines=Sandeep+Pokharel;>_+building+software...;>_+managing+infrastructure...;>_+fixing+broken+things...;>_+EOF" alt="Typing SVG" />
   </a>
 </div>
-
 
 <p align="center">
-  <i>Check out my pinned repositories below for my deployed production projects!</i>
+  <a href="https://portfolio.sandeeppokharel.com.np/" target="_blank">
+    <img src="https://img.shields.io/badge/Live_Portfolio-000000?style=for-the-badge&logo=react&logoColor=00ff00&labelColor=1a1a1a" alt="Portfolio" />
+  </a>
+  <a href="https://www.linkedin.com/in/sandeep-pokharel-0955932a3/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00ff00&labelColor=1a1a1a" alt="LinkedIn" />
+  </a>
+</p>
+
+---
+
+### `> whoami`
+
+Hey, I'm Sandeep. I fix broken things and build cool stuff.
+
+I'm a CS sophomore at Dakota State University. By day, I'm untangling enterprise IT issues as a Support Tech. By night, I'm spinning up Docker containers, exploring AWS, and writing React code. I like bridging the gap between operations and development—making sure things not only work, but scale. 
+
+---
+
+### `> ls -l /skills/`
+
+**`./dev`**  
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,html,css&perline=10&theme=dark" />
+  </a>
+</p>
+
+**`./ops`**  
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,bash,powershell,docker,aws,git,github&perline=10&theme=dark" />
+  </a>
+</p>
+
+---
+
+### `> cat stats.json`
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pokharelsandeep333&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokharelsandeep333&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+</p>
+
+---
+
+<p align="center">
+  <i>Check out my pinned repositories below for my deployed production projects.</i>
 </p>
