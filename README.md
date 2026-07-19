@@ -13,27 +13,6 @@ I'm a **Computer Science** sophomore at Dakota State University and work as an *
 
 ---
 
-### `> neofetch`
-
-<pre>
-<b><font color="#00FF00">   .---------------. </font></b> <b><font color="#00FF00">pokharelsandeep333-commits</font></b>@<b><font color="#00FF00">localhost</font></b>
-<b><font color="#00FF00">  |  .-----------.  |</font></b> ------------------------------------
-<b><font color="#00FF00">  |  |           |  |</font></b> <b>OS</b>: Windows / WSL2 Linux
-<b><font color="#00FF00">  |  | &gt;_        |  |</font></b> <b>Host</b>: Dakota State University
-<b><font color="#00FF00">  |  |           |  |</font></b> <b>Role</b>: IT Support & CS Major
-<b><font color="#00FF00">  |  `-----------'  |</font></b> <b>Uptime</b>: Sophomore Year
-<b><font color="#00FF00">  |                 |</font></b> <b>Packages</b>: React, Docker, AWS
-<b><font color="#00FF00">  | [=======]       |</font></b> <b>Shell</b>: PowerShell / Bash
-<b><font color="#00FF00">  |    ...   (O)    |</font></b> <b>Theme</b>: Hacker / Terminal
-<b><font color="#00FF00">  |                 |</font></b>
-<b><font color="#00FF00">  | === === ===     |</font></b>
-<b><font color="#00FF00">  | === === ===     |</font></b>
-<b><font color="#00FF00">  | === === ===     |</font></b>
-<b><font color="#00FF00">  |                 |</font></b>
-<b><font color="#00FF00">   `---------------' </font></b>
-</pre>
-
----
 
 ### `> ls -l /skills/`
 
