@@ -42,18 +42,11 @@ I'm a **Computer Science** sophomore at Dakota State University and work as an *
 ### `> cat stats.json`
 
 <p align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=pokharelsandeep333-commits&theme=tokyonight&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Trophies" />
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pokharelsandeep333-commits&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=pokharelsandeep333-commits&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokharelsandeep333-commits&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://ghchart.rshah.org/00FF00/pokharelsandeep333-commits" alt="GitHub Contributions Chart" />
 </p>
 
 ---
