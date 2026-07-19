@@ -39,6 +39,39 @@ I'm a **Computer Science** sophomore at Dakota State University and work as an *
 
 ---
 
+### `> netstat -an | grep CONNECTED`
+
+| PROTO | LOCAL ADDRESS     | FOREIGN ADDRESS                  | STATE       |
+|-------|-------------------|----------------------------------|-------------|
+| TCP   | [Portfolio](https://portfolio.sandeeppokharel.com.np/) | 104.21.25.10 (Live)              | ESTABLISHED |
+| TCP   | [LinkedIn](https://www.linkedin.com/in/sandeep-pokharel-0955932a3/)  | 108.174.10.10 (Connect)          | ESTABLISHED |
+| TCP   | Email             | sandeep.pokharel@trojans.dsu.edu | LISTENING   |
+---
+
+<!-- HANGMAN_START -->
+### `> ./hangman.sh`
+
+```text
+
+  +---+
+  |   |
+      |
+      |
+      |
+      |
+=========
+
+WORD: _ _ _ _ _ _ _ _
+
+MISTAKES: 0/6
+```
+
+### Guess a Letter:
+[`A`](https://github.com/pokharelsandeep333-commits/pokharelsandeep333-commits/issues/new?title=Hangman%20Guess:%20A&labels=hangman&body=Just%20click%20Submit%20new%20issue!) [`B`](https://github.com/pokharelsandeep333-commits/pokharelsandeep333-commits/issues/new?title=Hangman%20Guess:%20B&labels=hangman&body=Just%20click%20Submit%20new%20issue!) [`C`](https://github.com/pokharelsandeep333-commits/pokharelsandeep333-commits/issues/new?title=Hangman%20Guess:%20C&labels=hangman&body=Just%20click%20Submit%20new%20issue!) [`D`](https://github.com/pokharelsandeep333-commits/pokharelsandeep333-commits/issues/new?title=Hangman%20Guess:%20D&labels=hangman&body=Just%20click%20Submit%20new%20issue!) [`E`](https://github.com/pokharelsandeep333-commits/pokharelsandeep333-commits/issues/new?title=Hangman%20Guess:%20E&labels=hangman&body=Just%20click%20Submit%20new%20issue!) [`F`](https://github.com/pokharelsandeep333-commits/pokharelsandeep333-commits/issues/new?title=Hangman%20Guess:%20F&labels=hangman&body=Just%20click%20Submit%20new%20issue!) [`G`](https://github.com/pokharelsandeep333-commits/pokharelsandeep333-commits/issues/new?title=Hangman%20Guess:%20G&labels=hangman&body=Just%20click%20Submit%20new%20issue!) [`H`](https://github.com/pokharelsandeep333-commits/pokharelsandeep333-commits/issues/new?title=Hangman%20Guess:%20H&labels=hangman&body=Just%20click%20Submit%20new%20issue!) [`I`](https://github.com/pokharelsandeep333-commits/pokharelsandeep333-commits/issues/new?title=Hangman%20Guess:%20I&labels=hangman&body=Just%20click%20Submit%20new%20issue!) [`J`](https://github.com/pokharelsandeep333-commits/pokharelsandeep333-commits/issues/new?title=Hangman%20Guess:%20J&labels=hangman&body=Just%20click%20Submit%20new%20issue!) [`K`](https://github.com/pokharelsandeep333-commits/pokharelsandeep333-commits/issues/new?title=Hangman%20Guess:%20K&labels=hangman&body=Just%20click%20Submit%20new%20issue!) [`L`](https://github.com/pokharelsandeep333-commits/pokharelsandeep333-commits/issues/new?title=Hangman%20Guess:%20L&labels=hangman&body=Just%20click%20Submit%20new%20issue!) [`M`](https://github.com/pokharelsandeep333-commits/pokharelsandeep333-commits/issues/new?title=Hangman%20Guess:%20M&labels=hangman&body=Just%20click%20Submit%20new%20issue!) [`N`](https://github.com/pokharelsandeep333-commits/pokharelsandeep333-commits/issues/new?title=Hangman%20Guess:%20N&labels=hangman&body=Just%20click%20Submit%20new%20issue!) [`O`](https://github.com/pokharelsandeep333-commits/pokharelsandeep333-commits/issues/new?title=Hangman%20Guess:%20O&labels=hangman&body=Just%20click%20Submit%20new%20issue!) [`P`](https://github.com/pokharelsandeep333-commits/pokharelsandeep333-commits/issues/new?title=Hangman%20Guess:%20P&labels=hangman&body=Just%20click%20Submit%20new%20issue!) [`Q`](https://github.com/pokharelsandeep333-commits/pokharelsandeep333-commits/issues/new?title=Hangman%20Guess:%20Q&labels=hangman&body=Just%20click%20Submit%20new%20issue!) [`R`](https://github.com/pokharelsandeep333-commits/pokharelsandeep333-commits/issues/new?title=Hangman%20Guess:%20R&labels=hangman&body=Just%20click%20Submit%20new%20issue!) [`S`](https://github.com/pokharelsandeep333-commits/pokharelsandeep333-commits/issues/new?title=Hangman%20Guess:%20S&labels=hangman&body=Just%20click%20Submit%20new%20issue!) [`T`](https://github.com/pokharelsandeep333-commits/pokharelsandeep333-commits/issues/new?title=Hangman%20Guess:%20T&labels=hangman&body=Just%20click%20Submit%20new%20issue!) [`U`](https://github.com/pokharelsandeep333-commits/pokharelsandeep333-commits/issues/new?title=Hangman%20Guess:%20U&labels=hangman&body=Just%20click%20Submit%20new%20issue!) [`V`](https://github.com/pokharelsandeep333-commits/pokharelsandeep333-commits/issues/new?title=Hangman%20Guess:%20V&labels=hangman&body=Just%20click%20Submit%20new%20issue!) [`W`](https://github.com/pokharelsandeep333-commits/pokharelsandeep333-commits/issues/new?title=Hangman%20Guess:%20W&labels=hangman&body=Just%20click%20Submit%20new%20issue!) [`X`](https://github.com/pokharelsandeep333-commits/pokharelsandeep333-commits/issues/new?title=Hangman%20Guess:%20X&labels=hangman&body=Just%20click%20Submit%20new%20issue!) [`Y`](https://github.com/pokharelsandeep333-commits/pokharelsandeep333-commits/issues/new?title=Hangman%20Guess:%20Y&labels=hangman&body=Just%20click%20Submit%20new%20issue!) [`Z`](https://github.com/pokharelsandeep333-commits/pokharelsandeep333-commits/issues/new?title=Hangman%20Guess:%20Z&labels=hangman&body=Just%20click%20Submit%20new%20issue!)
+<!-- HANGMAN_END -->
+
+---
+
 ### `> cat stats.json`
 
 <p align="center">
@@ -46,7 +79,12 @@ I'm a **Computer Science** sophomore at Dakota State University and work as an *
 </p>
 
 <p align="center">
-  <img src="https://ghchart.rshah.org/00FF00/pokharelsandeep333-commits" alt="GitHub Contributions Chart" />
+  <!-- The Snake game will appear here once the GitHub Action runs! -->
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pokharelsandeep333-commits/pokharelsandeep333-commits/output/dist/github-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pokharelsandeep333-commits/pokharelsandeep333-commits/output/dist/github-snake.svg" />
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pokharelsandeep333-commits/pokharelsandeep333-commits/output/dist/github-snake.svg" />
+  </picture>
 </p>
 
 ---
