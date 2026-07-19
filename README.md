@@ -1,6 +1,6 @@
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FF00&background=0D111700&center=true&vCenter=true&width=600&lines=Sandeep+Pokharel;>_+building+software...;>_+managing+infrastructure...;>_+fixing+broken+things...;>_+EOF" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FF00&background=0D111700&center=true&vCenter=true&width=600&lines=Sandeep+Pokharel;>_+IT+Support+Tech+@+DSU;>_+CS+Student;>_+Self-hosting+on+AWS;>_+Building+web+apps" alt="Typing SVG" />
   </a>
 </div>
 
@@ -17,9 +17,7 @@
 
 ### `> whoami`
 
-Hey, I'm Sandeep. I fix broken things and build cool stuff.
-
-I'm a CS sophomore at Dakota State University. By day, I'm untangling enterprise IT issues as a Support Tech. By night, I'm spinning up Docker containers, exploring AWS, and writing React code. I like bridging the gap between operations and development—making sure things not only work, but scale. 
+I'm a **Computer Science** sophomore at Dakota State University and an **IT Support Technician** for DSU's IT Services. I bridge the gap between operational IT and software engineering. During the day, I troubleshoot complex enterprise endpoint environments. By night, I architect production-grade software, self-host complex Docker deployments on AWS, and build scalable web applications.
 
 ---
 
@@ -44,10 +42,10 @@ I'm a CS sophomore at Dakota State University. By day, I'm untangling enterprise
 ### `> cat stats.json`
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pokharelsandeep333&show_icons=true&theme=matrix&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pokharelsandeep333&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
 </p>
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokharelsandeep333&layout=compact&theme=matrix&hide_border=true&bg_color=0D1117" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokharelsandeep333&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
 
 ---
