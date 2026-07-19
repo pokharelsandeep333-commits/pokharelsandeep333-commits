@@ -17,7 +17,7 @@
 
 ### `> whoami`
 
-I'm a **Computer Science** sophomore at Dakota State University and an **IT Support Technician** for DSU's IT Services. I bridge the gap between operational IT and software engineering. During the day, I troubleshoot complex enterprise endpoint environments. By night, I architect production-grade software, self-host complex Docker deployments on AWS, and build scalable web applications.
+I'm a **Computer Science** sophomore at Dakota State University and work as an **IT Support Tech** on campus. I love connecting the dots between IT operations and software development. By day, I help fix computer systems and solve tech issues across the university. By night, I'm building web apps, setting up Docker containers, and hosting projects on AWS.
 
 ---
 
