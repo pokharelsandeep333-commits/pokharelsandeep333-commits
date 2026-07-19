@@ -34,10 +34,10 @@ I'm a **Computer Science** sophomore at Dakota State University and work as an *
 ### `> netstat -an | grep CONNECTED`
 
 <pre>
-<b>PROTO</b>   <b>LOCAL ADDRESS</b>      <b>FOREIGN ADDRESS</b>                        <b>STATE</b>
-TCP     <a href="https://portfolio.sandeeppokharel.com.np/">Portfolio</a>          104.21.25.10 (Live)                    ESTABLISHED
-TCP     <a href="https://www.linkedin.com/in/sandeep-pokharel-0955932a3/">LinkedIn</a>           108.174.10.10 (Connect)                ESTABLISHED
-TCP     <a href="mailto:pokharelsandeep333@gmail.com">Email</a>              <a href="mailto:sandeep.pokharel@trojans.dsu.edu">sandeep.pokharel@trojans.dsu.edu</a>       LISTENING
+<b>PROTO</b>   <b>LOCAL ADDRESS</b>   <b>FOREIGN ADDRESS</b>                    <b>STATE</b>
+TCP     <a href="https://portfolio.sandeeppokharel.com.np/">Portfolio</a>       104.21.25.10 (Live)                ESTABLISHED
+TCP     <a href="https://www.linkedin.com/in/sandeep-pokharel-0955932a3/">LinkedIn</a>        108.174.10.10 (Connect)            ESTABLISHED
+TCP     <a href="mailto:pokharelsandeep333@gmail.com">Email</a>           <a href="mailto:sandeep.pokharel@trojans.dsu.edu">sandeep.pokharel@trojans.dsu.edu</a>   LISTENING
 </pre>
 ---
 
