@@ -16,8 +16,8 @@ I'm a **Computer Science** sophomore at Dakota State University and work as an *
 ### `> neofetch`
 
 <pre>
-<b><font color="#00FF00">       a8888b.</font></b>       <b><font color="#00FF00">pokharelsandeep333</font></b>@<b><font color="#00FF00">localhost</font></b>
-<b><font color="#00FF00">      d888888b.</font></b>      ----------------------------
+<b><font color="#00FF00">       a8888b.</font></b>       <b><font color="#00FF00">pokharelsandeep333-commits</font></b>@<b><font color="#00FF00">localhost</font></b>
+<b><font color="#00FF00">      d888888b.</font></b>      ------------------------------------
 <b><font color="#00FF00">      8P"YP"Y88</font></b>      <b>OS</b>: Windows / WSL2 Linux
 <b><font color="#00FF00">      8|o||o|88</font></b>      <b>Host</b>: Dakota State University
 <b><font color="#00FF00">      8'    .88</font></b>      <b>Role</b>: IT Support & CS Major
