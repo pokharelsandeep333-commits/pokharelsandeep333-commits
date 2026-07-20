@@ -54,10 +54,10 @@ TCP     <a href="mailto:pokharelsandeep333@gmail.com">Email</a>           <a hre
 
 <!-- JOKE_START -->
 ```text
-[ 2026-07-18 23:05:26 ] Fetching ./fortune ...
+[ 2026-07-20 02:44:29 ] Fetching ./fortune ...
 
-> Why did the programmer bring a broom to work?
-> ... To clean up all the bugs.
+> The punchline often arrives before the set-up.
+> ... Do you know the problem with UDP jokes?
 ```
 <!-- JOKE_END -->
 
