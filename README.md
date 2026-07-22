@@ -54,10 +54,10 @@ TCP     <a href="mailto:pokharelsandeep333@gmail.com">Email</a>           <a hre
 
 <!-- JOKE_START -->
 ```text
-[ 2026-07-21 01:51:00 ] Fetching ./fortune ...
+[ 2026-07-22 01:50:14 ] Fetching ./fortune ...
 
-> The punchline often arrives before the set-up.
-> ... Do you know the problem with UDP jokes?
+> Why would a guitarist become a good programmer?
+> ... He's adept at riffing in C#.
 ```
 <!-- JOKE_END -->
 
