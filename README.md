@@ -54,10 +54,10 @@ TCP     <a href="mailto:pokharelsandeep333@gmail.com">Email</a>           <a hre
 
 <!-- JOKE_START -->
 ```text
-[ 2026-07-23 01:57:14 ] Fetching ./fortune ...
+[ 2026-07-24 01:53:13 ] Fetching ./fortune ...
 
-> What’s the object-oriented way to become wealthy?
-> ... Inheritance.
+> 3 SQL statements walk into a NoSQL bar. Soon, they walk out
+> ... They couldn't find a table.
 ```
 <!-- JOKE_END -->
 
