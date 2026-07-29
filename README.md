@@ -54,10 +54,10 @@ TCP     <a href="mailto:pokharelsandeep333@gmail.com">Email</a>           <a hre
 
 <!-- JOKE_START -->
 ```text
-[ 2026-07-28 01:46:11 ] Fetching ./fortune ...
+[ 2026-07-29 01:48:28 ] Fetching ./fortune ...
 
-> Why did the programmer bring a broom to work?
-> ... To clean up all the bugs.
+> An IPv6 packet is walking out of the house.
+> ... He goes nowhere.
 ```
 <!-- JOKE_END -->
 
