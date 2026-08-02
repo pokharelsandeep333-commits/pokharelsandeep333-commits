@@ -54,10 +54,10 @@ TCP     <a href="mailto:pokharelsandeep333@gmail.com">Email</a>           <a hre
 
 <!-- JOKE_START -->
 ```text
-[ 2026-08-01 01:59:32 ] Fetching ./fortune ...
+[ 2026-08-02 01:55:28 ] Fetching ./fortune ...
 
-> Which song would an exception sing?
-> ... Can't catch me - Avicii
+> Why do Java programmers wear glasses?
+> ... Because they don't C#.
 ```
 <!-- JOKE_END -->
 
