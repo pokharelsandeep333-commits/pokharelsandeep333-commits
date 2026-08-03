@@ -54,10 +54,10 @@ TCP     <a href="mailto:pokharelsandeep333@gmail.com">Email</a>           <a hre
 
 <!-- JOKE_START -->
 ```text
-[ 2026-08-02 01:55:28 ] Fetching ./fortune ...
+[ 2026-08-03 01:58:04 ] Fetching ./fortune ...
 
-> Why do Java programmers wear glasses?
-> ... Because they don't C#.
+> Why do C# and Java developers keep breaking their keyboards?
+> ... Because they use a strongly typed language.
 ```
 <!-- JOKE_END -->
 
