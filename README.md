@@ -54,10 +54,10 @@ TCP     <a href="mailto:pokharelsandeep333@gmail.com">Email</a>           <a hre
 
 <!-- JOKE_START -->
 ```text
-[ 2026-08-05 01:46:19 ] Fetching ./fortune ...
+[ 2026-08-06 01:46:32 ] Fetching ./fortune ...
 
-> What do you call a computer mouse that swears a lot?
-> ... A cursor!
+> What's the best thing about a Boolean?
+> ... Even if you're wrong, you're only off by a bit.
 ```
 <!-- JOKE_END -->
 
