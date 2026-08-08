@@ -54,10 +54,10 @@ TCP     <a href="mailto:pokharelsandeep333@gmail.com">Email</a>           <a hre
 
 <!-- JOKE_START -->
 ```text
-[ 2026-08-07 02:10:39 ] Fetching ./fortune ...
+[ 2026-08-08 00:58:25 ] Fetching ./fortune ...
 
-> Why would a guitarist become a good programmer?
-> ... He's adept at riffing in C#.
+> A user interface is like a joke.
+> ... If you have to explain it then it is not that good.
 ```
 <!-- JOKE_END -->
 
