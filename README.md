@@ -54,10 +54,10 @@ TCP     <a href="mailto:pokharelsandeep333@gmail.com">Email</a>           <a hre
 
 <!-- JOKE_START -->
 ```text
-[ 2026-08-11 01:02:51 ] Fetching ./fortune ...
+[ 2026-08-12 01:09:57 ] Fetching ./fortune ...
 
-> Why do C# and Java developers keep breaking their keyboards?
-> ... Because they use a strongly typed language.
+> A SQL query walks into a bar, walks up to two tables and asks...
+> ... 'Can I join you?'
 ```
 <!-- JOKE_END -->
 
