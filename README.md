@@ -1,86 +1,76 @@
 <div align="center">
-  <h1>⚡ Sandeep Pokharel</h1>
-  <p><code>CS Sophomore @ Dakota State University · IT Support Tech · Madison, SD</code></p>
-  <p>
-    <a href="https://portfolio.sandeeppokharel.com.np/"><img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="View Sandeep's portfolio" /></a>
-    <a href="https://www.linkedin.com/in/sandeep-pokharel-0955932a3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
-    <a href="mailto:pokharelsandeep333@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sandeep" /></a>
-  </p>
-  <img src="https://img.shields.io/badge/Status-Seeking%202026%20SWE%20%26%20DevOps%20Internships-39FF14?style=for-the-badge&labelColor=0D1117" alt="Seeking 2026 Software Engineering and DevOps internships" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1020,45:155E75,100:8B5CF6&height=230&section=header&text=Sandeep%20Pokharel&fontSize=46&fontColor=FFFFFF&animation=fadeIn&fontAlignY=38&desc=CS%20Student%20%7C%20IT%20Support%20Tech%20%7C%20Seeking%202026%20SWE%20%26%20DevOps%20Internships&descAlignY=60&descSize=17" alt="Sandeep Pokharel — Computer Science student, IT Support Tech, and 2026 SWE and DevOps internship candidate" width="100%" />
+  <br />
+  <br />
+  <a href="https://portfolio.sandeeppokharel.com.np/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Explore%20my%20portfolio-00E5FF?style=for-the-badge&logo=googlechrome&logoColor=06121B" alt="Explore Sandeep's portfolio" /></a>
+  <a href="https://www.linkedin.com/in/sandeeppokharel333" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect with Sandeep on LinkedIn" /></a>
+  <a href="mailto:pokharelsandeep333@gmail.com"><img src="https://img.shields.io/badge/Start%20a%20conversation-8B5CF6?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sandeep" /></a>
 </div>
 
----
+## About
 
-## `> whoami_`
+I'm a Computer Science student at Dakota State University and an IT Support Tech who likes building at the intersection of software, automation, and cloud infrastructure. I care about thoughtful engineering, reliable systems, and creating tools that make real work easier.
 
-I'm a Computer Science student and campus IT Support Tech who enjoys connecting reliable operations with thoughtful software. I build modern web applications, automation tools, and cloud-ready systems—then make sure they are practical for the people who use them.
+<div align="center">
+  <img src="https://img.shields.io/badge/Open%20to-2026%20Software%20Engineering%20%26%20DevOps%20Internships-0B1020?style=flat-square&labelColor=00E5FF&color=0B1020" alt="Open to 2026 Software Engineering and DevOps internships" />
+</div>
 
-```text
-focus      software engineering · DevOps · cloud infrastructure
-currently  building production-minded projects and learning in public
-next       2026 software engineering or DevOps internship
-```
-
----
-
-## `> featured_builds --production`
+## Featured Work
 
 <table>
   <tr>
-    <td width="33%" valign="top">
+    <td>
       <h3>🌐 Portfolio</h3>
-      <p>A cinematic, recruiter-focused portfolio with a real-time AI assistant and a responsive, motion-rich experience.</p>
-      <p><code>React · Vite · Tailwind · GSAP · Docker</code></p>
-      <a href="https://portfolio.sandeeppokharel.com.np/"><strong>Live Site ↗</strong></a> · <a href="https://github.com/pokharelsandeep333-commits/Portfolio"><strong>Source</strong></a>
+      <p>A cinematic portfolio designed for technical hiring managers, with a real-time AI assistant and a responsive, motion-rich experience.</p>
+      <p><strong>Built with:</strong> React · Vite · Tailwind CSS · GSAP · Docker</p>
+      <a href="https://portfolio.sandeeppokharel.com.np/" target="_blank" rel="noopener noreferrer"><strong>Visit the live site ↗</strong></a> · <a href="https://github.com/pokharelsandeep333-commits/Portfolio" target="_blank" rel="noopener noreferrer"><strong>View source ↗</strong></a>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td>
       <h3>🧠 Molecular Zettelkasten</h3>
-      <p>An AI knowledge workspace that turns an Obsidian vault into a searchable, source-aware second brain.</p>
-      <p><code>Next.js · Gemini · Firebase · Semantic RAG · AWS</code></p>
-      <a href="https://github.com/pokharelsandeep333-commits/Molecular-Zettelkasten"><strong>Explore Project ↗</strong></a>
+      <p>An AI knowledge workspace that transforms an Obsidian vault into a searchable, source-aware second brain.</p>
+      <p><strong>Built with:</strong> Next.js · Gemini · Firebase · Semantic RAG · AWS</p>
+      <a href="https://github.com/pokharelsandeep333-commits/Molecular-Zettelkasten" target="_blank" rel="noopener noreferrer"><strong>Explore the project ↗</strong></a>
     </td>
-    <td width="33%" valign="top">
+  </tr>
+  <tr>
+    <td>
       <h3>🛡️ DQA Automation Suite</h3>
-      <p>A zero-prompt hardware-quality tool built for DSU IT technicians to standardize device inspections.</p>
-      <p><code>PowerShell · WPF/XAML · C# · WMI/CIM</code></p>
-      <a href="https://github.com/pokharelsandeep333-commits/DQA-Automation"><strong>Explore Project ↗</strong></a>
+      <p>A zero-prompt device-quality tool built for DSU IT technicians to make hardware inspections faster and more consistent.</p>
+      <p><strong>Built with:</strong> PowerShell · WPF/XAML · C# · WMI/CIM</p>
+      <a href="https://github.com/pokharelsandeep333-commits/DQA-Automation" target="_blank" rel="noopener noreferrer"><strong>Explore the project ↗</strong></a>
     </td>
   </tr>
 </table>
 
----
+## Technology
 
-## `> stack --verified`
-
-**`./build`**
+### Languages & Frameworks
 
 <p>
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=c,java,python,ts,js,react,nextjs,tailwind,nodejs&perline=9&theme=dark" alt="C, Java, Python, TypeScript, JavaScript, React, Next.js, Tailwind CSS, and Node.js" />
   </a>
 </p>
 
-**`./ship`**
+### Cloud & Operations
 
 <p>
-  <a href="https://skillicons.dev">
+  <a href="https://skillicons.dev" target="_blank" rel="noopener noreferrer">
     <img src="https://skillicons.dev/icons?i=linux,powershell,docker,aws,git,github&perline=6&theme=dark" alt="Linux, PowerShell, Docker, AWS, Git, and GitHub" />
   </a>
 </p>
 
----
+## Opportunities
 
-## `> collaboration --open`
-
-I'm looking for a 2026 software engineering or DevOps internship where I can help ship reliable products, learn from a strong team, and bring an operations-minded perspective to development.
+I’m looking for a 2026 software engineering or DevOps internship where I can learn from a strong team, ship dependable products, and bring an operations-minded perspective to development.
 
 <p>
-  <a href="mailto:pokharelsandeep333@gmail.com"><strong>Start a conversation →</strong></a>
+  <a href="mailto:pokharelsandeep333@gmail.com"><strong>Let’s build something meaningful →</strong></a>
 </p>
 
----
-
-## `> contribution_matrix --animate`
+## Contributions
 
 <p align="center">
   <picture>
@@ -91,5 +81,5 @@ I'm looking for a 2026 software engineering or DevOps internship where I can hel
 </p>
 
 <div align="center">
-  <sub>Built with curiosity, shipped with care.</sub>
+  <sub>Building with curiosity. Shipping with care.</sub>
 </div>
