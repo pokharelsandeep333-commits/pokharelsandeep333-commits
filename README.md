@@ -1,92 +1,95 @@
 <div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=28&pause=1000&color=00FF00&background=0D111700&center=true&vCenter=true&width=600&lines=Sandeep+Pokharel;>_+Hello,+World!;>_+Welcome+to+my+localhost.;>_+Connection+established." alt="Typing SVG" />
-  </a>
+  <h1>⚡ Sandeep Pokharel</h1>
+  <p><code>CS Sophomore @ Dakota State University · IT Support Tech · Madison, SD</code></p>
+  <p>
+    <a href="https://portfolio.sandeeppokharel.com.np/"><img src="https://img.shields.io/badge/Portfolio-00F0FF?style=for-the-badge&logo=googlechrome&logoColor=black" alt="View Sandeep's portfolio" /></a>
+    <a href="https://www.linkedin.com/in/sandeep-pokharel-0955932a3/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="Connect on LinkedIn" /></a>
+    <a href="mailto:pokharelsandeep333@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Sandeep" /></a>
+  </p>
+  <img src="https://img.shields.io/badge/Status-Seeking%202026%20SWE%20%26%20DevOps%20Internships-39FF14?style=for-the-badge&labelColor=0D1117" alt="Seeking 2026 Software Engineering and DevOps internships" />
 </div>
 
-
 ---
 
-### `> whoami`
+## `> whoami_`
 
-I'm a **Computer Science** sophomore at Dakota State University and work as an **IT Support Tech** on campus. I love connecting the dots between IT operations and software development. By day, I help fix computer systems and solve tech issues across the university. By night, I'm building web apps, setting up Docker containers, and hosting projects on AWS.
+I'm a Computer Science student and campus IT Support Tech who enjoys connecting reliable operations with thoughtful software. I build modern web applications, automation tools, and cloud-ready systems—then make sure they are practical for the people who use them.
 
----
-
-
-### `> ls -l /skills/`
-
-**`./dev`**  
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=ts,js,react,nextjs,tailwind,nodejs,html,css&perline=10&theme=dark" />
-  </a>
-</p>
-
-**`./ops`**  
-<p>
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=linux,bash,powershell,docker,aws,git,github&perline=10&theme=dark" />
-  </a>
-</p>
-
----
-
-### `> netstat -an | grep CONNECTED`
-
-<pre>
-<b>PROTO</b>   <b>LOCAL ADDRESS</b>   <b>FOREIGN ADDRESS</b>                    <b>STATE</b>
-TCP     <a href="https://portfolio.sandeeppokharel.com.np/">Portfolio</a>       104.21.25.10 (Live)                ESTABLISHED
-TCP     <a href="https://www.linkedin.com/in/sandeep-pokharel-0955932a3/">LinkedIn</a>        108.174.10.10 (Connect)            ESTABLISHED
-TCP     <a href="mailto:pokharelsandeep333@gmail.com">Email</a>           <a href="mailto:sandeep.pokharel@trojans.dsu.edu">sandeep.pokharel@trojans.dsu.edu</a>   LISTENING
-</pre>
----
-
-### `> history | grep commits`
-
-<!--START_SECTION:activity-->
-1. ❗ Opened issue [#1](https://github.com/pokharelsandeep333-commits/pokharelsandeep333-commits/issues/1) in [pokharelsandeep333-commits/pokharelsandeep333-commits](https://github.com/pokharelsandeep333-commits/pokharelsandeep333-commits)
-<!--END_SECTION:activity-->
-
----
-
-### `> ./fortune`
-
-<!-- JOKE_START -->
 ```text
-[ 2026-08-17 00:43:33 ] Fetching ./fortune ...
-
-> There are 10 types of people in this world...
-> ... Those who understand binary and those who don't
+focus      software engineering · DevOps · cloud infrastructure
+currently  building production-minded projects and learning in public
+next       2026 software engineering or DevOps internship
 ```
-<!-- JOKE_END -->
 
 ---
 
-### `> cat stats.json`
+## `> featured_builds --production`
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pokharelsandeep333-commits&theme=tokyonight&hide_border=true&background=0D1117" alt="GitHub Streak" />
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h3>🌐 Portfolio</h3>
+      <p>A cinematic, recruiter-focused portfolio with a real-time AI assistant and a responsive, motion-rich experience.</p>
+      <p><code>React · Vite · Tailwind · GSAP · Docker</code></p>
+      <a href="https://portfolio.sandeeppokharel.com.np/"><strong>Live Site ↗</strong></a> · <a href="https://github.com/pokharelsandeep333-commits/Portfolio"><strong>Source</strong></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🧠 Molecular Zettelkasten</h3>
+      <p>An AI knowledge workspace that turns an Obsidian vault into a searchable, source-aware second brain.</p>
+      <p><code>Next.js · Gemini · Firebase · Semantic RAG · AWS</code></p>
+      <a href="https://github.com/pokharelsandeep333-commits/Molecular-Zettelkasten"><strong>Explore Project ↗</strong></a>
+    </td>
+    <td width="33%" valign="top">
+      <h3>🛡️ DQA Automation Suite</h3>
+      <p>A zero-prompt hardware-quality tool built for DSU IT technicians to standardize device inspections.</p>
+      <p><code>PowerShell · WPF/XAML · C# · WMI/CIM</code></p>
+      <a href="https://github.com/pokharelsandeep333-commits/DQA-Automation"><strong>Explore Project ↗</strong></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## `> stack --verified`
+
+**`./build`**
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=c,java,python,ts,js,react,nextjs,tailwind,nodejs&perline=9&theme=dark" alt="C, Java, Python, TypeScript, JavaScript, React, Next.js, Tailwind CSS, and Node.js" />
+  </a>
 </p>
 
+**`./ship`**
+
+<p>
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=linux,powershell,docker,aws,git,github&perline=6&theme=dark" alt="Linux, PowerShell, Docker, AWS, Git, and GitHub" />
+  </a>
+</p>
+
+---
+
+## `> collaboration --open`
+
+I'm looking for a 2026 software engineering or DevOps internship where I can help ship reliable products, learn from a strong team, and bring an operations-minded perspective to development.
+
+<p>
+  <a href="mailto:pokharelsandeep333@gmail.com"><strong>Start a conversation →</strong></a>
+</p>
+
+---
+
+## `> contribution_matrix --animate`
+
 <p align="center">
-  <!-- The Snake game will appear here once the GitHub Action runs! -->
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pokharelsandeep333-commits/pokharelsandeep333-commits/output/github-snake-dark.svg" />
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pokharelsandeep333-commits/pokharelsandeep333-commits/output/github-snake.svg" />
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/pokharelsandeep333-commits/pokharelsandeep333-commits/output/github-snake.svg" />
+    <img alt="Animated GitHub contribution snake" src="https://raw.githubusercontent.com/pokharelsandeep333-commits/pokharelsandeep333-commits/output/github-snake.svg" />
   </picture>
 </p>
 
----
-
-### `> cat /var/log/visitors.log`
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=pokharelsandeep333-commits&color=2ea043&style=for-the-badge&label=VISITORS" alt="Visitor Badge" />
-</p>
-
----
-
-<p align="center">
-  <i>Check out my pinned repositories below for my deployed production projects.</i>
-</p>
+<div align="center">
+  <sub>Built with curiosity, shipped with care.</sub>
+</div>
