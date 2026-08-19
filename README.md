@@ -9,8 +9,7 @@
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=00F0FF&v=1&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=45&lines=IT+Support+Technician+by+day%2C+building+web+apps+%26+cloud+infra+by+night;CS+Sophomore+%40+Dakota+State+University" alt="Typing SVG" />
   </a>
-
-  <br/><br/>
+  <br/>
 
   <!-- SOCIAL BADGES -->
   <a href="https://portfolio.sandeeppokharel.com.np/" target="_blank" rel="noopener noreferrer">
