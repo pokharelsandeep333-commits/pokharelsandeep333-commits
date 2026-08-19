@@ -7,20 +7,20 @@
 
   <!-- ANIMATED TYPING SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=00F0FF&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=45&lines=IT+Support+Technician+by+day%2C+building+web+apps+%26+cloud+infra+by+night;CS+Sophomore+%40+Dakota+State+University" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=00F0FF&v=1&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=45&lines=IT+Support+Technician+by+day%2C+building+web+apps+%26+cloud+infra+by+night;CS+Sophomore+%40+Dakota+State+University" alt="Typing SVG" />
   </a>
 
   <br/><br/>
 
   <!-- SOCIAL BADGES -->
   <a href="https://portfolio.sandeeppokharel.com.np/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=googlechrome&logoColor=00F0FF" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-002D62?style=for-the-badge&logo=googlechrome&logoColor=FFC72C" alt="Portfolio" />
   </a>
   <a href="https://www.linkedin.com/in/sandeeppokharel333" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0D1117?style=for-the-badge&logo=linkedin&logoColor=00F0FF" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:pokharelsandeep333@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F0FF" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 
 </div>
@@ -70,6 +70,44 @@ I'm a Computer Science student who also works in campus IT Support. Because of m
   <img src="https://skillicons.dev/icons?i=linux,powershell,docker,aws,git,github&perline=6&theme=dark" alt="Linux, PowerShell, Docker, AWS, Git, GitHub" />
 </a>
 
+<br/><br/>
+
+**AI & Automation**
+
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" alt="LangChain" />
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Hugging Face" />
+<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&amp;logo=ollama&amp;logoColor=white" alt="Ollama" />
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit" />
+<img src="https://img.shields.io/badge/vLLM-1B263B?style=for-the-badge" alt="vLLM" />
+<img src="https://img.shields.io/badge/Open_WebUI-415A77?style=for-the-badge" alt="Open WebUI" />
+<img src="https://img.shields.io/badge/Hermes_Agent-0500FF?style=for-the-badge" alt="Hermes Agent" />
+
+<br/><br/>
+
+**Databases & BaaS**
+
+<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" alt="Supabase" />
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
+<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis" />
+<img src="https://img.shields.io/badge/Firebase-FFA000?style=for-the-badge&amp;logo=firebase&amp;logoColor=white" alt="Firebase" />
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+
+<br/><br/>
+
+**Other Tools & Platforms**
+
+<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare" />
+<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Google Stitch" />
+<img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&amp;logo=obsidian&amp;logoColor=white" alt="Obsidian" />
+<img src="https://img.shields.io/badge/AdGuard_Home-68BC71?style=for-the-badge&amp;logo=adguard&amp;logoColor=white" alt="AdGuard Home" />
+<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&amp;logo=raspberrypi&amp;logoColor=white" alt="Raspberry Pi" />
+<img src="https://img.shields.io/badge/Tailscale-383938?style=for-the-badge&amp;logo=tailscale&amp;logoColor=white" alt="Tailscale" />
+<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx" />
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&amp;logo=proxmox&amp;logoColor=white" alt="Proxmox" />
+
 </div>
 
 <br/>
@@ -89,7 +127,7 @@ I'm a Computer Science student who also works in campus IT Support. Because of m
       <p align="center"><code>React · Vite · Tailwind · GSAP · Docker</code></p>
       <p align="center">
         <a href="https://portfolio.sandeeppokharel.com.np/" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Live_Site-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Site" />
+          <img src="https://img.shields.io/badge/Live_Site-00F0FF&v=1?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Site" />
         </a>
         <a href="https://github.com/pokharelsandeep333-commits/Portfolio" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Source-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Source" />
@@ -132,13 +170,13 @@ I'm a Computer Science student who also works in campus IT Support. Because of m
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=pokharelsandeep333-commits&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&icon_color=00F0FF&text_color=c9d1d9&ring_color=00F0FF" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pokharelsandeep333-commits&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&v=1&icon_color=00F0FF&v=1&text_color=c9d1d9&ring_color=00F0FF&v=1" alt="GitHub Stats" height="180" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokharelsandeep333-commits&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&text_color=c9d1d9" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokharelsandeep333-commits&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&v=1&text_color=c9d1d9" alt="Top Languages" height="180" />
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pokharelsandeep333-commits&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&ring=00F0FF&fire=00F0FF&currStreakLabel=00F0FF&sideLabels=00F0FF&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pokharelsandeep333-commits&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&v=1&ring=00F0FF&v=1&fire=00F0FF&v=1&currStreakLabel=00F0FF&v=1&sideLabels=00F0FF&v=1&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak Stats" />
 
 </div>
 
