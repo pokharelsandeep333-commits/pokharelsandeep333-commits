@@ -168,12 +168,6 @@ I'm a Computer Science student who also works in campus IT Support. Because of m
 
 <div align="center">
 
-  ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=pokharelsandeep333-commits&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&v=1&icon_color=00F0FF&v=1&text_color=c9d1d9&ring_color=00F0FF&v=1)
-  &nbsp;&nbsp;
-  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=pokharelsandeep333-commits&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&v=1&text_color=c9d1d9)
-
-  <br/><br/>
-
   ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=pokharelsandeep333-commits&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&v=1&ring=00F0FF&v=1&fire=00F0FF&v=1&currStreakLabel=00F0FF&v=1&sideLabels=00F0FF&v=1&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555)
 
 </div>
@@ -198,7 +192,7 @@ I'm a Computer Science student who also works in campus IT Support. Because of m
 
 <div align="center">
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=pokharelsandeep333-commits&style=for-the-badge&color=0D1117&labelColor=0D1117&label=PROFILE+VIEWS)
+  ![Profile Views](https://komarev.com/ghpvc/?username=pokharelsandeep333-commits&style=for-the-badge&color=238636&labelColor=0D1117&label=PROFILE+VIEWS)
 
   <br/><br/>
 
