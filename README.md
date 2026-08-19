@@ -72,13 +72,13 @@ I'm a Computer Science student who also works in campus IT Support. Because of m
 
 **AI & Automation**
 
-<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&amp;logo=langchain&amp;logoColor=white" alt="LangChain" />
 <img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Hugging Face" />
 <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&amp;logo=ollama&amp;logoColor=white" alt="Ollama" />
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit" />
 <img src="https://img.shields.io/badge/vLLM-1B263B?style=for-the-badge" alt="vLLM" />
 <img src="https://img.shields.io/badge/Open_WebUI-415A77?style=for-the-badge" alt="Open WebUI" />
 <img src="https://img.shields.io/badge/Hermes_Agent-0500FF?style=for-the-badge" alt="Hermes Agent" />
+<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&amp;logo=n8n&amp;logoColor=white" alt="n8n" />
 
 <br/><br/>
 
