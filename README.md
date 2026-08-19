@@ -168,13 +168,13 @@ I'm a Computer Science student who also works in campus IT Support. Because of m
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=pokharelsandeep333-commits&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&v=1&icon_color=00F0FF&v=1&text_color=c9d1d9&ring_color=00F0FF&v=1" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=pokharelsandeep333-commits&amp;show_icons=true&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F0FF&amp;v=1&amp;icon_color=00F0FF&amp;v=1&amp;text_color=c9d1d9&amp;ring_color=00F0FF&amp;v=1" alt="GitHub Stats" height="180" />
   &nbsp;&nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokharelsandeep333-commits&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F0FF&v=1&text_color=c9d1d9" alt="Top Languages" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pokharelsandeep333-commits&amp;layout=compact&amp;theme=tokyonight&amp;hide_border=true&amp;bg_color=0D1117&amp;title_color=00F0FF&amp;v=1&amp;text_color=c9d1d9" alt="Top Languages" height="180" />
 
   <br/><br/>
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pokharelsandeep333-commits&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&v=1&ring=00F0FF&v=1&fire=00F0FF&v=1&currStreakLabel=00F0FF&v=1&sideLabels=00F0FF&v=1&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=pokharelsandeep333-commits&amp;theme=tokyonight&amp;hide_border=true&amp;background=0D1117&amp;stroke=00F0FF&amp;v=1&amp;ring=00F0FF&amp;v=1&amp;fire=00F0FF&amp;v=1&amp;currStreakLabel=00F0FF&amp;v=1&amp;sideLabels=00F0FF&amp;v=1&amp;currStreakNum=c9d1d9&amp;sideNums=c9d1d9&amp;dates=555555" alt="GitHub Streak Stats" />
 
 </div>
 
@@ -198,7 +198,7 @@ I'm a Computer Science student who also works in campus IT Support. Because of m
 
 <div align="center">
 
-  <img src="https://komarev.com/ghpvc/?username=pokharelsandeep333-commits&style=for-the-badge&color=0D1117&labelColor=0D1117&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=pokharelsandeep333-commits&amp;style=for-the-badge&amp;color=0D1117&amp;labelColor=0D1117&amp;label=PROFILE+VIEWS" alt="Profile Views" />
 
   <br/><br/>
 
