@@ -1,7 +1,7 @@
 <div align="center">
 
   <!-- HERO BANNER -->
-  <img src="./assets/banner.jpg" alt="Sandeep Pokharel — Cyber Operations Student · Builder · Cloud Enthusiast" width="100%" />
+  <img src="./assets/banner.jpg" alt="Sandeep Pokharel — Cyber Ops Student · Builder · Cloud Enthusiast" width="100%" />
 
   <br/>
 
