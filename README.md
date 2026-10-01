@@ -1,13 +1,13 @@
 <div align="center">
 
   <!-- HERO BANNER -->
-  <img src="./assets/banner.jpg" alt="Sandeep Pokharel — CS Student · Builder · Cloud Enthusiast" width="100%" />
+  <img src="./assets/banner.jpg" alt="Sandeep Pokharel — Cyber Operations Student · Builder · Cloud Enthusiast" width="100%" />
 
   <br/>
 
   <!-- ANIMATED TYPING SVG -->
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=00F0FF&v=1&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=45&lines=IT+Support+Technician+by+day%2C+building+web+apps+%26+cloud+infra+by+night;CS+Sophomore+%40+Dakota+State+University" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=00F0FF&v=1&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=45&lines=IT+Support+Technician+by+day%2C+building+web+apps+%26+cloud+infra+by+night;Cyber+Operations+Sophomore+%40+Dakota+State+University;Minor+in+Network+Security" alt="Typing SVG" />
   </a>
 
   <br/><br/>
@@ -29,11 +29,12 @@
 
 ## 👨‍💻 About Me
 
-I'm a Computer Science student who also works in campus IT Support. Because of my IT background, I care deeply about the user experience. I focus on building modern web apps, cloud systems, and automation tools that are reliable, practical, and genuinely helpful for the people using them.
+I'm a Cyber Operations student with a minor in Network Security, and I also work in campus IT Support. My IT background taught me to care about the people on the other end of the system, and my security studies taught me to think about who might be attacking it. I build web apps, cloud systems, and automation tools that are reliable, practical, and secure by design.
 
-- 🎓 **CS Sophomore** @ Dakota State University
+- 🎓 **Cyber Operations Sophomore** @ Dakota State University, minoring in **Network Security**
 - 📍 Based in **Madison, SD**
 - 🔭 Currently building **production-minded projects** and learning in public
+- 🛡️ Focused on **network defense**, **traffic analysis**, and **threat detection** with honeypots in my homelab
 - 🌱 Exploring **cloud infrastructure**, **DevOps**, and **full-stack development**
 - 🤖 Diving into **AI/ML**, **Generative AI (LLMs)**, and **AI Agents & Automation**
 - ⚡ Fun fact: I believe the best code is the code that actually ships
@@ -82,6 +83,20 @@ I'm a Computer Science student who also works in campus IT Support. Because of m
 
 <br/><br/>
 
+**Security & Networking**
+
+<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white" alt="Kali Linux" />
+<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark" />
+<img src="https://img.shields.io/badge/Nmap-0E3A5B?style=for-the-badge" alt="Nmap" />
+<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&amp;logo=splunk&amp;logoColor=white" alt="Splunk" />
+<img src="https://img.shields.io/badge/Cowrie_Honeypot-8B0000?style=for-the-badge" alt="Cowrie Honeypot" />
+<img src="https://img.shields.io/badge/Tailscale-383938?style=for-the-badge&amp;logo=tailscale&amp;logoColor=white" alt="Tailscale" />
+<img src="https://img.shields.io/badge/AdGuard_Home-68BC71?style=for-the-badge&amp;logo=adguard&amp;logoColor=white" alt="AdGuard Home" />
+<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&amp;logo=tryhackme&amp;logoColor=white" alt="TryHackMe" />
+<img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=black" alt="Hack The Box" />
+
+<br/><br/>
+
 **Databases & BaaS**
 
 <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" alt="Supabase" />
@@ -100,9 +115,7 @@ I'm a Computer Science student who also works in campus IT Support. Because of m
 <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman" />
 <img src="https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Google Stitch" />
 <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&amp;logo=obsidian&amp;logoColor=white" alt="Obsidian" />
-<img src="https://img.shields.io/badge/AdGuard_Home-68BC71?style=for-the-badge&amp;logo=adguard&amp;logoColor=white" alt="AdGuard Home" />
 <img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&amp;logo=raspberrypi&amp;logoColor=white" alt="Raspberry Pi" />
-<img src="https://img.shields.io/badge/Tailscale-383938?style=for-the-badge&amp;logo=tailscale&amp;logoColor=white" alt="Tailscale" />
 <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx" />
 <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&amp;logo=proxmox&amp;logoColor=white" alt="Proxmox" />
 
@@ -125,7 +138,7 @@ I'm a Computer Science student who also works in campus IT Support. Because of m
       <p align="center"><code>React · Vite · Tailwind · GSAP · Docker</code></p>
       <p align="center">
         <a href="https://portfolio.sandeeppokharel.com.np/" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Live_Site-00F0FF&v=1?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Site" />
+          <img src="https://img.shields.io/badge/Live_Site-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Site" />
         </a>
         <a href="https://github.com/pokharelsandeep333-commits/Portfolio" target="_blank" rel="noopener noreferrer">
           <img src="https://img.shields.io/badge/Source-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Source" />
