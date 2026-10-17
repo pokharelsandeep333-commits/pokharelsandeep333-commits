@@ -1,214 +1,123 @@
-<div align="center">
+![Sandeep Pokharel. Cyber Operations, IT Support, and Builder.](./assets/banner-abstract.webp)
 
-  <!-- HERO BANNER -->
-  <img src="./assets/banner.jpg" alt="Sandeep Pokharel — Cyber Ops Student · Builder · Cloud Enthusiast" width="100%" />
+# Hi, I'm Sandeep
 
-  <br/>
+I'm a Cyber Operations student at Dakota State University, minoring in Network Security Administration. I work as an IT Support Desk Technician on campus. After work, I build apps on my own servers and run a home SOC that monitors them.
 
-  <!-- ANIMATED TYPING SVG -->
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3500&pause=1200&color=00F0FF&v=1&center=true&vCenter=true&multiline=false&repeat=true&width=1000&height=45&lines=IT+Support+Technician+by+day%2C+building+web+apps+%26+cloud+infra+by+night;Cyber+Operations+Sophomore+%40+Dakota+State+University;Minor+in+Network+Security" alt="Typing SVG" />
-  </a>
+<p>
+  <a href="https://portfolio.sandeeppokharel.com.np/"><img src="./assets/actions/portfolio.svg" alt="Portfolio" height="34" /></a>&nbsp;
+  <a href="https://www.linkedin.com/in/sandeeppokharel333"><img src="./assets/actions/linkedin.svg" alt="LinkedIn" height="34" /></a>&nbsp;
+  <a href="mailto:pokharelsandeep333@gmail.com"><img src="./assets/actions/email.svg" alt="Email" height="34" /></a>
+</p>
 
-  <br/><br/>
+## Selected work
 
-  <!-- SOCIAL BADGES -->
-  <a href="https://portfolio.sandeeppokharel.com.np/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Portfolio-002D62?style=for-the-badge&logo=googlechrome&logoColor=FFC72C" alt="Portfolio" />
-  </a>
-  <a href="https://www.linkedin.com/in/sandeeppokharel333" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="mailto:pokharelsandeep333@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-
-</div>
-
-<!-- ───────────────────────────────────────────── -->
-
-## 👨‍💻 About Me
-
-I'm a Cyber Operations student with a minor in Network Security, and I also work in campus IT Support. My IT background taught me to care about the people on the other end of the system, and my security studies taught me to think about who might be attacking it. I build web apps, cloud systems, and automation tools that are reliable, practical, and secure by design.
-
-- 🎓 **Cyber Operations Sophomore** @ Dakota State University, minoring in **Network Security**
-- 📍 Based in **Madison, SD**
-- 🔭 Currently building **production-minded projects** and learning in public
-- 🛡️ Focused on **network defense**, **traffic analysis**, and **threat detection** with honeypots in my homelab
-- 🌱 Exploring **cloud infrastructure**, **DevOps**, and **full-stack development**
-- 🤖 Diving into **AI/ML**, **Generative AI (LLMs)**, and **AI Agents & Automation**
-- ⚡ Fun fact: I believe the best code is the code that actually ships
-
-<br/>
-
-<!-- ───────────────────────────────────────────── -->
-
-## 🛠️ Tech Stack
-
-<div align="center">
-
-**Languages**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=c,java,python,ts,js&perline=5&theme=dark" alt="C, Java, Python, TypeScript, JavaScript" />
-</a>
-
-<br/><br/>
-
-**Frameworks & Libraries**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,nodejs&perline=4&theme=dark" alt="React, Next.js, Tailwind CSS, Node.js" />
-</a>
-
-<br/><br/>
-
-**DevOps & Cloud**
-
-<a href="https://skillicons.dev">
-  <img src="https://skillicons.dev/icons?i=linux,powershell,docker,aws,git,github&perline=6&theme=dark" alt="Linux, PowerShell, Docker, AWS, Git, GitHub" />
-</a>
-
-<br/><br/>
-
-**AI & Automation**
-
-<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Hugging Face" />
-<img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&amp;logo=ollama&amp;logoColor=white" alt="Ollama" />
-<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit" />
-<img src="https://img.shields.io/badge/vLLM-1B263B?style=for-the-badge" alt="vLLM" />
-<img src="https://img.shields.io/badge/Open_WebUI-415A77?style=for-the-badge" alt="Open WebUI" />
-<img src="https://img.shields.io/badge/Hermes_Agent-0500FF?style=for-the-badge" alt="Hermes Agent" />
-<img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&amp;logo=n8n&amp;logoColor=white" alt="n8n" />
-
-<br/><br/>
-
-**Security & Networking**
-
-<img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white" alt="Kali Linux" />
-<img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark" />
-<img src="https://img.shields.io/badge/Nmap-0E3A5B?style=for-the-badge" alt="Nmap" />
-<img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&amp;logo=splunk&amp;logoColor=white" alt="Splunk" />
-<img src="https://img.shields.io/badge/Cowrie_Honeypot-8B0000?style=for-the-badge" alt="Cowrie Honeypot" />
-<img src="https://img.shields.io/badge/Tailscale-383938?style=for-the-badge&amp;logo=tailscale&amp;logoColor=white" alt="Tailscale" />
-<img src="https://img.shields.io/badge/AdGuard_Home-68BC71?style=for-the-badge&amp;logo=adguard&amp;logoColor=white" alt="AdGuard Home" />
-<img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&amp;logo=tryhackme&amp;logoColor=white" alt="TryHackMe" />
-<img src="https://img.shields.io/badge/Hack_The_Box-9FEF00?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=black" alt="Hack The Box" />
-
-<br/><br/>
-
-**Databases & BaaS**
-
-<img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" alt="Supabase" />
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
-<img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis" />
-<img src="https://img.shields.io/badge/Firebase-FFA000?style=for-the-badge&amp;logo=firebase&amp;logoColor=white" alt="Firebase" />
-<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
-
-<br/><br/>
-
-**Other Tools & Platforms**
-
-<img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare" />
-<img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite" />
-<img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/Google_Stitch-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Google Stitch" />
-<img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&amp;logo=obsidian&amp;logoColor=white" alt="Obsidian" />
-<img src="https://img.shields.io/badge/Raspberry_Pi-A22846?style=for-the-badge&amp;logo=raspberrypi&amp;logoColor=white" alt="Raspberry Pi" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx" />
-<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&amp;logo=proxmox&amp;logoColor=white" alt="Proxmox" />
-
-</div>
-
-<br/>
-
-<!-- ───────────────────────────────────────────── -->
-
-## 🚀 Featured Projects
-
-<div align="center">
 <table>
   <tr>
     <td width="33%" valign="top">
-      <h3 align="center">🌐 Portfolio</h3>
-      <p align="center">
-        A cinematic, recruiter-focused portfolio with a real-time AI assistant and a responsive, motion-rich experience.
-      </p>
-      <p align="center"><code>React · Vite · Tailwind · GSAP · Docker</code></p>
-      <p align="center">
-        <a href="https://portfolio.sandeeppokharel.com.np/" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Live_Site-00F0FF?style=for-the-badge&logo=vercel&logoColor=black" alt="Live Site" />
-        </a>
-        <a href="https://github.com/pokharelsandeep333-commits/Portfolio" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Source-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Source" />
-        </a>
-      </p>
+      <h3>Wazuh Home SOC</h3>
+      <p>A home SOC for my AWS servers, with private log collection over Tailscale, CloudTrail detections, and Discord alerts. Includes tested rules and rebuild guides.</p>
+      <p><code>Wazuh&nbsp;·&nbsp;Tailscale&nbsp;·&nbsp;CloudTrail · Docker</code></p>
+      <p><a href="https://github.com/pokharelsandeep333-commits/wazuh-home-soc"><img src="./assets/actions/source.svg" alt="Wazuh Home SOC source" height="32" /></a>&nbsp; <a href="https://github.com/pokharelsandeep333-commits/wazuh-home-soc#rebuild-it-yourself"><img src="./assets/actions/build-guide.svg" alt="Wazuh Home SOC build guide" height="32" /></a></p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">🧠 Molecular Zettelkasten</h3>
-      <p align="center">
-        An AI knowledge workspace that turns an Obsidian vault into a searchable, source-aware second brain.
-      </p>
-      <p align="center"><code>Next.js · Gemini · Firebase · Semantic RAG · AWS</code></p>
-      <p align="center">
-        <a href="https://github.com/pokharelsandeep333-commits/Molecular-Zettelkasten" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Explore_Project-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Explore Project" />
-        </a>
-      </p>
+      <h3>ShiftSentry</h3>
+      <p>A multi-job shift and earnings tracker with weekly hour-cap warnings. Built around my campus work schedule, with per-user records protected by Supabase Row Level Security.</p>
+      <p><code>Next.js&nbsp;·&nbsp;TypeScript&nbsp;·&nbsp;Supabase · PostgreSQL</code></p>
+      <p><a href="https://sentry.sandeeppokharel.com.np/"><img src="./assets/actions/open-app.svg" alt="Open ShiftSentry" height="32" /></a>&nbsp; <a href="https://github.com/pokharelsandeep333-commits/ShiftSentry"><img src="./assets/actions/source.svg" alt="ShiftSentry source" height="32" /></a></p>
     </td>
     <td width="33%" valign="top">
-      <h3 align="center">📚 Personal Wiki Template</h3>
-      <p align="center">
-        A ready-to-use personal knowledge wiki template for organizing notes, research, and documentation.
-      </p>
-      <p align="center"><code>Markdown · Wiki · Knowledge Management</code></p>
-      <p align="center">
-        <a href="https://github.com/pokharelsandeep333-commits/Personal-Wiki-Template" target="_blank" rel="noopener noreferrer">
-          <img src="https://img.shields.io/badge/Explore_Project-0D1117?style=for-the-badge&logo=github&logoColor=white" alt="Explore Project" />
-        </a>
-      </p>
+      <h3>Portfolio</h3>
+      <p>My projects and IT experience, with a Gemini assistant grounded in my work. Built with React and GSAP, deployed in Docker on AWS EC2.</p>
+      <p><code>React&nbsp;·&nbsp;Vite&nbsp;·&nbsp;GSAP · Docker</code></p>
+      <p><a href="https://portfolio.sandeeppokharel.com.np/"><img src="./assets/actions/visit-site.svg" alt="Visit portfolio" height="32" /></a>&nbsp; <a href="https://github.com/pokharelsandeep333-commits/Portfolio"><img src="./assets/actions/source.svg" alt="Portfolio source" height="32" /></a></p>
     </td>
   </tr>
 </table>
-</div>
 
-<br/>
+## Tech stack
 
-<!-- ───────────────────────────────────────────── -->
+### Security & networking
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-  ![GitHub Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=pokharelsandeep333-commits&theme=tokyonight&hide_border=true&background=0D1117&stroke=00F0FF&v=1&ring=00F0FF&v=1&fire=00F0FF&v=1&currStreakLabel=00F0FF&v=1&sideLabels=00F0FF&v=1&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=555555)
-
-</div>
-
-<br/>
-
-<!-- ───────────────────────────────────────────── -->
-
-## 🐍 Contribution Graph
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/pokharelsandeep333-commits/pokharelsandeep333-commits/output/github-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/pokharelsandeep333-commits/pokharelsandeep333-commits/output/github-snake.svg" />
-    <img alt="GitHub Contribution Snake Animation" src="https://raw.githubusercontent.com/pokharelsandeep333-commits/pokharelsandeep333-commits/output/github-snake.svg" />
-  </picture>
+<p>
+  <img src="https://img.shields.io/badge/Wazuh-0072C6?style=for-the-badge" alt="Wazuh" />
+  <img src="https://img.shields.io/badge/Kali%20Linux-557C94?style=for-the-badge&amp;logo=kalilinux&amp;logoColor=white" alt="Kali Linux" />
+  <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&amp;logo=wireshark&amp;logoColor=white" alt="Wireshark" />
+  <img src="https://img.shields.io/badge/Nmap-0E3A5B?style=for-the-badge" alt="Nmap" />
+  <img src="https://img.shields.io/badge/Splunk-000000?style=for-the-badge&amp;logo=splunk&amp;logoColor=white" alt="Splunk" />
+  <img src="https://img.shields.io/badge/Cowrie-8B0000?style=for-the-badge" alt="Cowrie" />
+  <img src="https://img.shields.io/badge/Tailscale-383938?style=for-the-badge&amp;logo=tailscale&amp;logoColor=white" alt="Tailscale" />
+  <img src="https://img.shields.io/badge/AdGuard%20Home-68BC71?style=for-the-badge&amp;logo=adguard&amp;logoColor=white" alt="AdGuard Home" />
+  <img src="https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&amp;logo=tryhackme&amp;logoColor=white" alt="TryHackMe" />
+  <img src="https://img.shields.io/badge/Hack%20The%20Box-9FEF00?style=for-the-badge&amp;logo=hackthebox&amp;logoColor=black" alt="Hack The Box" />
 </p>
 
-<br/>
+### Languages
 
-<!-- ───────────────────────────────────────────── -->
+<p>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&amp;logo=typescript&amp;logoColor=white" alt="TypeScript" />
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&amp;logo=javascript&amp;logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&amp;logo=python&amp;logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge" alt="PowerShell" />
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&amp;logo=c&amp;logoColor=black" alt="C" />
+  <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&amp;logo=cplusplus&amp;logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&amp;logo=openjdk&amp;logoColor=white" alt="Java" />
+</p>
 
-<div align="center">
+### Web & frameworks
 
-  ![Profile Views](https://komarev.com/ghpvc/?username=pokharelsandeep333-commits&style=for-the-badge&color=238636&labelColor=0D1117&label=PROFILE+VIEWS)
+<p>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&amp;logo=react&amp;logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&amp;logo=nextdotjs&amp;logoColor=white" alt="Next.js" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&amp;logo=nodedotjs&amp;logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=for-the-badge&amp;logo=tailwindcss&amp;logoColor=white" alt="Tailwind CSS" />
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&amp;logo=vite&amp;logoColor=white" alt="Vite" />
+  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&amp;logo=gsap&amp;logoColor=black" alt="GSAP" />
+</p>
 
-  <br/><br/>
+### Cloud & DevOps
 
-  <sub>Built with curiosity, shipped with care.</sub>
+<p>
+  <img src="https://img.shields.io/badge/AWS%20EC2-FF9900?style=for-the-badge" alt="AWS EC2" />
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&amp;logo=docker&amp;logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&amp;logo=linux&amp;logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&amp;logo=nginx&amp;logoColor=white" alt="Nginx" />
+  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&amp;logo=cloudflare&amp;logoColor=white" alt="Cloudflare" />
+  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&amp;logo=githubactions&amp;logoColor=white" alt="GitHub Actions" />
+  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&amp;logo=vercel&amp;logoColor=white" alt="Vercel" />
+</p>
 
-</div>
+### Databases & services
+
+<p>
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&amp;logo=postgresql&amp;logoColor=white" alt="PostgreSQL" />
+  <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&amp;logo=supabase&amp;logoColor=white" alt="Supabase" />
+  <img src="https://img.shields.io/badge/Firebase-FFA000?style=for-the-badge&amp;logo=firebase&amp;logoColor=white" alt="Firebase" />
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&amp;logo=mysql&amp;logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&amp;logo=redis&amp;logoColor=white" alt="Redis" />
+</p>
+
+### AI & automation
+
+<p>
+  <img src="https://img.shields.io/badge/Gemini-8E75B2?style=for-the-badge&amp;logo=googlegemini&amp;logoColor=white" alt="Gemini" />
+  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&amp;logo=huggingface&amp;logoColor=black" alt="Hugging Face" />
+  <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge&amp;logo=ollama&amp;logoColor=white" alt="Ollama" />
+  <img src="https://img.shields.io/badge/n8n-EA4B71?style=for-the-badge&amp;logo=n8n&amp;logoColor=white" alt="n8n" />
+  <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&amp;logo=streamlit&amp;logoColor=white" alt="Streamlit" />
+  <img src="https://img.shields.io/badge/vLLM-1B263B?style=for-the-badge" alt="vLLM" />
+  <img src="https://img.shields.io/badge/Open%20WebUI-415A77?style=for-the-badge" alt="Open WebUI" />
+  <img src="https://img.shields.io/badge/Hermes%20Agent-0500FF?style=for-the-badge" alt="Hermes Agent" />
+</p>
+
+### Tools & platforms
+
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&amp;logo=git&amp;logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&amp;logo=github&amp;logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&amp;logo=postman&amp;logoColor=white" alt="Postman" />
+  <img src="https://img.shields.io/badge/Obsidian-483699?style=for-the-badge&amp;logo=obsidian&amp;logoColor=white" alt="Obsidian" />
+  <img src="https://img.shields.io/badge/Google%20Stitch-4285F4?style=for-the-badge&amp;logo=google&amp;logoColor=white" alt="Google Stitch" />
+  <img src="https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&amp;logo=raspberrypi&amp;logoColor=white" alt="Raspberry Pi" />
+  <img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&amp;logo=proxmox&amp;logoColor=white" alt="Proxmox" />
+</p>
