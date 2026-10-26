@@ -119,50 +119,64 @@ I'm studying Cyber Operations at Dakota State University, with a minor in Networ
 
 ## Selected projects
 
+<table>
+  <tr>
+    <td width="288" valign="top">
+      <p>
+        <a href="https://github.com/pokharelsandeep333-commits/wazuh-home-soc">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/wazuh-tile.svg" />
+            <img src="./assets/projects/wazuh-tile-light.svg" alt="Wazuh Home SOC. Private AWS log collection over Tailscale, CloudTrail detections, and Discord alerts. Built with Wazuh, Tailscale, AWS, Docker." width="260" />
+          </picture>
+        </a>
+      </p>
+      <p><code>Wazuh&nbsp;·&nbsp;Tailscale&nbsp;·&nbsp;AWS&nbsp;EC2&nbsp;·&nbsp;Docker</code></p>
+      <p>
+        <a href="https://github.com/pokharelsandeep333-commits/wazuh-home-soc"><img src="./assets/project-actions/source.svg" alt="View Wazuh Home SOC source" height="32" /></a>&nbsp;<a href="https://github.com/pokharelsandeep333-commits/wazuh-home-soc#rebuild-it-yourself"><img src="./assets/project-actions/build-guide.svg" alt="Read the Wazuh Home SOC build guide" height="32" /></a>
+      </p>
+    </td>
+    <td width="288" valign="top">
+      <p>
+        <a href="https://github.com/pokharelsandeep333-commits/ShiftSentry">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/shiftsentry-tile.svg" />
+            <img src="./assets/projects/shiftsentry-tile-light.svg" alt="ShiftSentry. Multi-job shifts, earnings, and weekly hour caps, built around my campus schedule. Built with Next.js, TypeScript, Supabase, PostgreSQL." width="260" />
+          </picture>
+        </a>
+      </p>
+      <p><code>Next.js&nbsp;·&nbsp;TypeScript&nbsp;·&nbsp;PostgreSQL</code></p>
+      <p>
+        <a href="https://github.com/pokharelsandeep333-commits/ShiftSentry"><img src="./assets/project-actions/source.svg" alt="View ShiftSentry source" height="32" /></a>&nbsp;<a href="https://sentry.sandeeppokharel.com.np/"><img src="./assets/project-actions/live-app.svg" alt="Open ShiftSentry" height="32" /></a>
+      </p>
+    </td>
+    <td width="288" valign="top">
+      <p>
+        <a href="https://github.com/pokharelsandeep333-commits/Portfolio">
+          <picture>
+            <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/portfolio-tile.svg" />
+            <img src="./assets/projects/portfolio-tile-light.svg" alt="Portfolio. Projects and IT experience, with a Gemini assistant for questions about my work. Built with React, Vite, GSAP, Gemini." width="260" />
+          </picture>
+        </a>
+      </p>
+      <p><code>React&nbsp;·&nbsp;Vite&nbsp;·&nbsp;GSAP&nbsp;·&nbsp;Gemini&nbsp;API</code></p>
+      <p>
+        <a href="https://github.com/pokharelsandeep333-commits/Portfolio"><img src="./assets/project-actions/source.svg" alt="View Portfolio source" height="32" /></a>&nbsp;<a href="https://portfolio.sandeeppokharel.com.np/"><img src="./assets/project-actions/visit-site.svg" alt="Visit my portfolio" height="32" /></a>
+      </p>
+    </td>
+  </tr>
+</table>
+
+## Contribution skyline
+
 <p>
-  <a href="https://github.com/pokharelsandeep333-commits/wazuh-home-soc">
+  <a href="https://github.com/pokharelsandeep333-commits?tab=overview">
     <picture>
-      <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/projects/wazuh-mobile.svg" />
-      <source media="(max-width: 600px)" srcset="./assets/projects/wazuh-mobile-light.svg" />
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/wazuh.svg" />
-      <img src="./assets/projects/wazuh-light.svg" alt="Wazuh Home SOC. Private AWS log collection over Tailscale, CloudTrail detections, and Discord alerts. Built with Wazuh, Tailscale, AWS, Docker." width="100%" />
+      <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/activity/skyline-mobile.svg" />
+      <source media="(max-width: 600px)" srcset="./assets/activity/skyline-mobile-light.svg" />
+      <source media="(prefers-color-scheme: dark)" srcset="./assets/activity/skyline.svg" />
+      <img src="./assets/activity/skyline-light.svg" alt="A skyline drawn from my public GitHub contribution calendar. Each building represents one day; its height shows that day's contribution count." width="100%" />
     </picture>
   </a>
 </p>
 
-<p>
-  <a href="https://github.com/pokharelsandeep333-commits/wazuh-home-soc"><img src="./assets/project-actions/source.svg" alt="View Wazuh Home SOC source" height="30" /></a>&nbsp;
-  <a href="https://github.com/pokharelsandeep333-commits/wazuh-home-soc#rebuild-it-yourself"><img src="./assets/project-actions/build-guide.svg" alt="Read the Wazuh Home SOC build guide" height="30" /></a>
-</p>
-
-<p>
-  <a href="https://github.com/pokharelsandeep333-commits/ShiftSentry">
-    <picture>
-      <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/projects/shiftsentry-mobile.svg" />
-      <source media="(max-width: 600px)" srcset="./assets/projects/shiftsentry-mobile-light.svg" />
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/shiftsentry.svg" />
-      <img src="./assets/projects/shiftsentry-light.svg" alt="ShiftSentry. Multi-job shifts, earnings, and weekly hour caps, built around my campus schedule. Built with Next.js, TypeScript, Supabase, PostgreSQL." width="100%" />
-    </picture>
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/pokharelsandeep333-commits/ShiftSentry"><img src="./assets/project-actions/source.svg" alt="View ShiftSentry source" height="30" /></a>&nbsp;
-  <a href="https://sentry.sandeeppokharel.com.np/"><img src="./assets/project-actions/live-app.svg" alt="Open ShiftSentry" height="30" /></a>
-</p>
-
-<p>
-  <a href="https://github.com/pokharelsandeep333-commits/Portfolio">
-    <picture>
-      <source media="(prefers-color-scheme: dark) and (max-width: 600px)" srcset="./assets/projects/portfolio-mobile.svg" />
-      <source media="(max-width: 600px)" srcset="./assets/projects/portfolio-mobile-light.svg" />
-      <source media="(prefers-color-scheme: dark)" srcset="./assets/projects/portfolio.svg" />
-      <img src="./assets/projects/portfolio-light.svg" alt="Portfolio. Projects and IT experience, with a Gemini assistant for questions about my work. Built with React, Vite, GSAP, Gemini." width="100%" />
-    </picture>
-  </a>
-</p>
-
-<p>
-  <a href="https://github.com/pokharelsandeep333-commits/Portfolio"><img src="./assets/project-actions/source.svg" alt="View Portfolio source" height="30" /></a>&nbsp;
-  <a href="https://portfolio.sandeeppokharel.com.np/"><img src="./assets/project-actions/visit-site.svg" alt="Visit my portfolio" height="30" /></a>
-</p>
+<sub>A 24-week snapshot of my <a href="https://github.com/pokharelsandeep333-commits?tab=overview">public GitHub calendar</a>, through October 25, 2026.</sub>

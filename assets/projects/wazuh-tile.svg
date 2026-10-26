@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="224" viewBox="0 0 480 224" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Wazuh Home SOC</title>
+  <desc id="desc">Private AWS log collection over Tailscale, CloudTrail detections, and Discord alerts. Built with Wazuh, Tailscale, AWS, Docker.</desc>
+  <rect width="480" height="224" rx="6" fill="#0a1628"/>
+  <path d="M24 0H110" stroke="#FFC72C" stroke-width="3"/>
+  <text x="24" y="39" fill="#FFC72C" font-family="Consolas,monospace" font-size="15" letter-spacing=".8">01 / SECURITY OPERATIONS</text>
+  <text x="22" y="94" fill="#e8edf5" font-family="Segoe UI,Arial,sans-serif" font-size="35" font-weight="600" letter-spacing="-.8">Wazuh Home SOC</text>
+  <text x="24" y="139" fill="#B2C1D6" font-family="Segoe UI,Arial,sans-serif" font-size="23">Private AWS log collection over</text><text x="24" y="168" fill="#B2C1D6" font-family="Segoe UI,Arial,sans-serif" font-size="23">Tailscale, CloudTrail detections,</text><text x="24" y="197" fill="#B2C1D6" font-family="Segoe UI,Arial,sans-serif" font-size="23">and Discord alerts.</text>
+</svg>

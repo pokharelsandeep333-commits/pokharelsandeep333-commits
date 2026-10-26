@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="480" height="224" viewBox="0 0 480 224" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">ShiftSentry</title>
+  <desc id="desc">Multi-job shifts, earnings, and weekly hour caps, built around my campus schedule. Built with Next.js, TypeScript, Supabase, PostgreSQL.</desc>
+  <rect width="480" height="224" rx="6" fill="#F4F7FC"/>
+  <path d="M24 0H110" stroke="#FFC72C" stroke-width="3"/>
+  <text x="24" y="39" fill="#002D62" font-family="Consolas,monospace" font-size="15" letter-spacing=".8">02 / WEB APPLICATION</text>
+  <text x="22" y="94" fill="#002D62" font-family="Segoe UI,Arial,sans-serif" font-size="35" font-weight="600" letter-spacing="-.8">ShiftSentry</text>
+  <text x="24" y="139" fill="#50627D" font-family="Segoe UI,Arial,sans-serif" font-size="23">Multi-job shifts, earnings, and</text><text x="24" y="168" fill="#50627D" font-family="Segoe UI,Arial,sans-serif" font-size="23">weekly hour caps, built around my</text><text x="24" y="197" fill="#50627D" font-family="Segoe UI,Arial,sans-serif" font-size="23">campus schedule.</text>
+</svg>
