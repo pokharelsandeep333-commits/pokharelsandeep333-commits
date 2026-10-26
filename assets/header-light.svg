@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="250" viewBox="0 0 1280 250" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Sandeep Pokharel</title>
+  <desc id="desc">Cyber Operations and IT support at Dakota State University. Gold and blue from my portfolio.</desc>
+  <rect x=".5" y=".5" width="1279" height="249" rx="8" fill="#001a3d" stroke="#24446C"/>
+  <path d="M1010 0H1280V250H936Z" fill="#003d8a" fill-opacity=".55"/>
+  <path d="M1107 38H1228V212H1056" stroke="#7B8B86" stroke-opacity=".35"/>
+  <text x="1110" y="159" text-anchor="middle" fill="none" stroke="#FFC72C" stroke-opacity=".42" stroke-width=".8" font-family="Segoe UI,Arial,sans-serif" font-size="84" font-weight="700">SP</text>
+  <path d="M48 0H180" stroke="#FFC72C" stroke-width="3"/>
+  <text x="48" y="53" fill="#FFC72C" font-family="Consolas,monospace" font-size="16" letter-spacing="2.1">CYBER OPERATIONS / IT SUPPORT</text>
+  <text x="43" y="144" fill="#e8edf5" font-family="Segoe UI,Arial,sans-serif" font-size="77" font-weight="700" letter-spacing="-2.8">Sandeep <tspan fill="#FFC72C">Pokharel.</tspan></text>
+  <path d="M48 187H88" stroke="#FFC72C" stroke-width="2"/>
+  <text x="104" y="194" fill="#B7C6DC" font-family="Segoe UI,Arial,sans-serif" font-size="22">Dakota State University</text>
+</svg>

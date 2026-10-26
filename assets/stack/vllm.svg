@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="83" height="42" viewBox="0 0 83 42" role="img" aria-labelledby="title">
+  <title id="title">vLLM</title>
+  <rect x=".5" y=".5" width="82" height="37" rx="6" fill="#0a1628" stroke="#2A4160" />
+  <svg role="img" viewBox="0 0 24 24" x="10" y="8" width="22" height="22" fill="#F5BE6E"><path d="m23.6 0-8.721 4.59L9.829 24h7.41zM9.83 24V5.142H.4Z" /></svg>
+  <text x="41" y="24" fill="#e8edf5" font-family="Segoe UI,Arial,sans-serif" font-size="13" font-weight="500">vLLM</text>
+</svg>
