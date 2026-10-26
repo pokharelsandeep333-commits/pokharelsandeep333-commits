@@ -64,4 +64,4 @@ Wazuh, Nmap, Cowrie, Open WebUI, Hermes Agent, and Google Stitch use text monogr
 | Raspberry Pi | https://github.com/devicons/devicon/blob/4fbcc685c9a85434bc01b1c236c9076f54806236/icons/raspberrypi/raspberrypi-original.svg |
 | Proxmox | https://github.com/simple-icons/simple-icons/blob/90646e4bf7f3b89df6c37e65baf3e7bc759a517c/icons/proxmox.svg |
 
-Featured badge variants in the featured/ folder use the same logos as the matching files above. Their larger layout distinguishes the main stack; it does not represent a proficiency score.
+Main-stack badges live in the featured/ folder; the remaining tool badges live directly in this folder. Both use the sources listed above. The larger layout distinguishes the main stack; it does not represent a proficiency score.
