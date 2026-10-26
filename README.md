@@ -179,4 +179,4 @@ I'm studying Cyber Operations at Dakota State University, with a minor in Networ
   </a>
 </p>
 
-<sub>A 24-week snapshot of my <a href="https://github.com/pokharelsandeep333-commits?tab=overview">public GitHub calendar</a>, through October 25, 2026.</sub>
+<sub>A 24-week snapshot of my <a href="https://github.com/pokharelsandeep333-commits?tab=overview">public GitHub calendar</a>, through October 25, 2026. Updated daily.</sub>
