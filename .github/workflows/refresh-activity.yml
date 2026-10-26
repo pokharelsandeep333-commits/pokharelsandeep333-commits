@@ -1,0 +1,85 @@
+name: Refresh contribution skyline
+
+on:
+  schedule:
+    - cron: "23 5 * * *"
+      timezone: America/Chicago
+  workflow_dispatch:
+  pull_request:
+    paths:
+      - ".github/workflows/refresh-activity.yml"
+      - "scripts/update-activity-art.py"
+      - "scripts/tests/**"
+      - "assets/activity/calendar.json"
+      - "README.md"
+  push:
+    branches: [main]
+    paths:
+      - ".github/workflows/refresh-activity.yml"
+      - "scripts/update-activity-art.py"
+      - "scripts/tests/**"
+
+permissions:
+  contents: read
+
+concurrency:
+  group: contribution-skyline-${{ github.event.pull_request.number || github.ref }}
+  cancel-in-progress: false
+
+defaults:
+  run:
+    shell: bash
+
+jobs:
+  validate:
+    name: Validate contribution artwork
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    permissions:
+      contents: read
+    steps:
+      - name: Check out code without persisted credentials
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          persist-credentials: false
+      - name: Set up Python
+        uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.14.9"
+      - name: Run regression checks
+        run: python -m unittest discover -s "scripts/tests" -p "test_*.py" -v
+
+  refresh:
+    name: Refresh and publish skyline
+    needs: validate
+    if: github.event_name != 'pull_request' && github.ref == 'refs/heads/main' && github.repository == 'pokharelsandeep333-commits/pokharelsandeep333-commits'
+    runs-on: ubuntu-24.04
+    timeout-minutes: 5
+    permissions:
+      contents: write
+    steps:
+      - name: Check out main for the generated update
+        uses: actions/checkout@3d3c42e5aac5ba805825da76410c181273ba90b1 # v7.0.1
+        with:
+          ref: main
+      - name: Set up Python
+        uses: actions/setup-python@6d4fd22b20465ccc0f7354476588e8df7c9ca0e0 # v7.1.0
+        with:
+          python-version: "3.14.9"
+      - name: Regenerate and publish changed artwork
+        run: |
+          through_date="$(date -u -d yesterday +%F)"
+          python "scripts/update-activity-art.py" --through "$through_date"
+          git add -- "README.md" "assets/activity/calendar.json" \
+            "assets/activity/skyline.svg" "assets/activity/skyline-light.svg" \
+            "assets/activity/skyline-mobile.svg" "assets/activity/skyline-mobile-light.svg"
+          if git diff --cached --quiet; then
+            printf '%s\n' "No contribution artwork changes." >> "$GITHUB_STEP_SUMMARY"
+            exit 0
+          fi
+          git diff --cached --check
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git commit -m "chore: refresh contribution skyline"
+          git push origin "HEAD:main"
+          printf 'Updated contribution artwork through %s (UTC).\n' "$through_date" >> "$GITHUB_STEP_SUMMARY"
