@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="250" viewBox="0 0 800 250" fill="none" role="img" aria-labelledby="title desc">
+  <title id="title">Sandeep Pokharel</title>
+  <desc id="desc">Cyber Operations and IT support at Dakota State University. Gold and blue from my portfolio.</desc>
+  <rect x=".5" y=".5" width="799" height="249" rx="8" fill="#001a3d" stroke="#24446C"/>
+
+  <path d="M48 0H180" stroke="#FFC72C" stroke-width="3"/>
+  <text x="48" y="53" fill="#FFC72C" font-family="Consolas,monospace" font-size="16" letter-spacing="2.1">CYBER OPERATIONS / IT SUPPORT</text>
+  <text x="43" y="144" fill="#e8edf5" font-family="Segoe UI,Arial,sans-serif" font-size="69" font-weight="700" letter-spacing="-2.8">Sandeep <tspan fill="#FFC72C">Pokharel.</tspan></text>
+  <path d="M48 187H88" stroke="#FFC72C" stroke-width="2"/>
+  <text x="104" y="194" fill="#B7C6DC" font-family="Segoe UI,Arial,sans-serif" font-size="22">Dakota State University</text>
+</svg>

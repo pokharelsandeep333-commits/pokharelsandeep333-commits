@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="115" height="54" viewBox="0 0 115 54" role="img" aria-labelledby="title">
+  <title id="title">Wazuh</title>
+  <rect x=".5" y=".5" width="114" height="47" rx="7" fill="#001a3d" stroke="#29456B" />
+  <path d="M1 12V36" stroke="#FFC72C" stroke-width="2" />
+  <text x="28" y="31" text-anchor="middle" fill="#48A9F8" font-family="Segoe UI,Arial,sans-serif" font-size="22" font-weight="700">W</text>
+
+  <text x="53" y="30" fill="#e8edf5" font-family="Segoe UI,Arial,sans-serif" font-size="15" font-weight="600">Wazuh</text>
+</svg>
