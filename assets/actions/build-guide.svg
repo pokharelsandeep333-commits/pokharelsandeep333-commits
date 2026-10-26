@@ -1,6 +1,0 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="124" height="32" viewBox="0 0 124 32" role="img" aria-label="Build guide">
-  <defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#131F31"/><stop offset="1" stop-color="#090F18"/></linearGradient></defs>
-  <rect x=".5" y=".5" width="123" height="31" rx="6" fill="url(#bg)" stroke="#2D4D70"/><path d="M1 7a6 6 0 0 1 6-6h110" fill="none" stroke="#5EA7FF" stroke-opacity=".28"/>
-  <path d="M11 11.5h5.3c1.7 0 2.7.7 3.2 1.6.5-.9 1.5-1.6 3.2-1.6H28v10h-5.3c-1.7 0-2.7.6-3.2 1.5-.5-.9-1.5-1.5-3.2-1.5H11v-10Zm8.5 1.6V23" fill="none" stroke="#E7B75A" stroke-width="1.35" stroke-linecap="round" stroke-linejoin="round"/>
-  <text x="35" y="20" fill="#F4F7FB" font-family="Segoe UI,Arial,sans-serif" font-size="10.5" font-weight="650" letter-spacing=".55">BUILD GUIDE</text>
-</svg>
