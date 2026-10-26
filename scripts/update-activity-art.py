@@ -105,6 +105,25 @@ def blend(hex_color: str, amount: float):
     return "#" + "".join(f"{round(value + (255 - value) * amount):02x}" for value in values)
 
 
+def validate_days(days, first: date, through: date):
+    if len(days) != WEEKS * 7 or first + timedelta(days=len(days) - 1) != through:
+        raise ValueError("Expected a complete 168-day calendar range")
+    for offset, day in enumerate(days):
+        if day["date"] != (first + timedelta(days=offset)).isoformat():
+            raise ValueError("Calendar days must be consecutive and ordered")
+        if type(day["count"]) is not int or day["count"] < 0:
+            raise ValueError("Contribution counts must be nonnegative integers")
+        if type(day["level"]) is not int or not 0 <= day["level"] <= 4:
+            raise ValueError("Contribution levels must be integers from 0 to 4")
+
+
+def keep_fetch_time_if_unchanged(data, previous):
+    comparable = lambda item: {key: value for key, value in item.items() if key != "fetchedAtUtc"}
+    if comparable(data) == comparable(previous) and previous.get("fetchedAtUtc"):
+        data["fetchedAtUtc"] = previous["fetchedAtUtc"]
+    return data
+
+
 def render(days, first: date, through: date, dark: bool, mobile: bool):
     width, height = (640, 410) if mobile else (1280, 340)
     bg = "#050e1f" if dark else "#F4F7FC"
@@ -148,10 +167,11 @@ def render(days, first: date, through: date, dark: bool, mobile: bool):
         for x, label in months
     )
     if mobile:
+        total_label_x = 52 + len(f"{total:,}") * 34
         labels = f'''
   <text x="28" y="41" fill="{ink}" font-family="Segoe UI,Arial,sans-serif" font-size="30" font-weight="600">Contribution skyline</text>
   <text x="26" y="108" fill="{ink}" font-family="Segoe UI,Arial,sans-serif" font-size="58" font-weight="700">{total:,}</text>
-  <text x="155" y="89" fill="{muted}" font-family="Segoe UI,Arial,sans-serif" font-size="22">GitHub contributions</text>
+  <text x="{total_label_x}" y="89" fill="{muted}" font-family="Segoe UI,Arial,sans-serif" font-size="22">GitHub contributions</text>
   <text x="28" y="144" fill="{muted}" font-family="Segoe UI,Arial,sans-serif" font-size="20">{active} active days · {WEEKS} weeks · {short_date(first)} to {short_date(through)}</text>
   <text x="28" y="390" fill="{muted}" font-family="Consolas,monospace" font-size="16">PUBLIC CALENDAR / THROUGH {through.isoformat()} / UTC</text>'''
     else:
@@ -199,20 +219,28 @@ def main():
             "sourceUrls": sources, "fetchedAtUtc": datetime.now(timezone.utc).isoformat(),
             "days": days,
         }
-    if len(days) != WEEKS * 7 or len({day["date"] for day in days}) != len(days):
-        raise ValueError("Expected exactly 168 distinct calendar days")
-    if days[0]["date"] != first.isoformat() or days[-1]["date"] != args.through.isoformat():
-        raise ValueError("Calendar range does not match the snapshot")
-    OUTPUT.mkdir(parents=True, exist_ok=True)
-    (OUTPUT / "calendar.json").write_text(json.dumps(data, indent=2) + "\n", encoding="utf-8")
-    for suffix, dark, mobile in [("",True,False),("-light",False,False),("-mobile",True,True),("-mobile-light",False,True)]:
-        (OUTPUT / f"skyline{suffix}.svg").write_text(render(days,first,args.through,dark,mobile),encoding="utf-8")
+    validate_days(days, first, args.through)
+    previous_file = OUTPUT / "calendar.json"
+    if not args.from_cache and previous_file.exists():
+        try:
+            previous = json.loads(previous_file.read_text(encoding="utf-8"))
+        except json.JSONDecodeError:
+            previous = {}
+        data = keep_fetch_time_if_unchanged(data, previous)
     readme = ROOT / "README.md"
     content = readme.read_text(encoding="utf-8")
-    caption = f'A 24-week snapshot of my <a href="https://github.com/{ACCOUNT}?tab=overview">public GitHub calendar</a>, through {args.through:%B} {args.through.day}, {args.through.year}.'
+    caption = f'A 24-week snapshot of my <a href="https://github.com/{ACCOUNT}?tab=overview">public GitHub calendar</a>, through {args.through:%B} {args.through.day}, {args.through.year}. Updated daily.'
     content, count = re.subn(r'A 24-week snapshot of my <a href="https://github.com/[^"]+">public GitHub calendar</a>, (?:refreshed|through) [^<]+',caption,content)
     if count != 1:
         raise ValueError("Could not update the README snapshot caption")
+    artwork = {
+        f"skyline{suffix}.svg": render(days, first, args.through, dark, mobile)
+        for suffix, dark, mobile in [("",True,False),("-light",False,False),("-mobile",True,True),("-mobile-light",False,True)]
+    }
+    OUTPUT.mkdir(parents=True, exist_ok=True)
+    (OUTPUT / "calendar.json").write_text(json.dumps(data, indent=2) + "\n", encoding="utf-8")
+    for name, svg in artwork.items():
+        (OUTPUT / name).write_text(svg, encoding="utf-8")
     readme.write_text(content,encoding="utf-8")
     print(json.dumps({"days":len(days),"contributions":sum(day["count"] for day in days),"activeDays":sum(day["count"]>0 for day in days),"from":first.isoformat(),"through":args.through.isoformat(),"svgVariants":4},indent=2))
 
