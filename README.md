@@ -10,7 +10,7 @@
 <p align="center">
   <a href="https://portfolio.sandeeppokharel.com.np/"><img src="./assets/connect/portfolio.svg" alt="Visit my portfolio" height="32" /></a>&nbsp;
   <a href="https://www.linkedin.com/in/sandeeppokharel333"><img src="./assets/connect/linkedin.svg" alt="Connect on LinkedIn" height="32" /></a>&nbsp;
-  <a href="mailto:pokharelsandeep333@gmail.com"><img src="./assets/connect/email.svg" alt="Email Sandeep" height="32" /></a>
+  <a href="mailto:contact@sandeeppokharel.com.np"><img src="./assets/connect/email.svg" alt="Email Sandeep" height="32" /></a>
 </p>
 
 I'm studying Cyber Operations at Dakota State University, with a minor in Network Security Administration. I work as an IT Support Desk Technician on campus. At home, I build apps on my own servers and run a Wazuh SOC to monitor them.
